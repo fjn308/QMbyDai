@@ -7,7 +7,7 @@
   * [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
 * 2020年2月18日
   * [3. 光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)
-  * [4. 光的波粒二象性（重录）](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)
+  * [4. 光的波粒二象性](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)
   * [5. 玻尔理论](https://github.com/fjn308/QMbyDai/releases/download/20200218.5/20200218.5.7z)
   * [6. 玻尔-索末菲条件，普朗克常数的意义](https://github.com/fjn308/QMbyDai/releases/download/20200218.6/20200218.6.7z)
 

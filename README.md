@@ -23,4 +23,4 @@
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix)
 * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 
-这些软件（包括 MPC-HC）都是开源的，在此谨向它们的开发者表示感谢。
+这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc)）都是开源的，在此谨向它们的开发者表示感谢。

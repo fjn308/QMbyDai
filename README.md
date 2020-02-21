@@ -11,10 +11,10 @@
   * [5. 玻尔理论](https://github.com/fjn308/QMbyDai/releases/download/20200218.5/20200218.5.7z)
   * [6. 玻尔-索末菲条件，普朗克常数的意义](https://github.com/fjn308/QMbyDai/releases/download/20200218.6/20200218.6.7z)
 * 2020年2月21日
- * [7. 德布罗意的物质波、物质波与玻尔-索末菲条件&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)
- * [8. 量子力学的几种等价表述&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
+  * [7. 德布罗意的物质波、物质波与玻尔-索末菲条件&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)
+  * [8. 量子力学的几种等价表述&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
 * 习题
- * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
+  * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 
 以上视频的在线播放版本发布在微信公众号**大场论**。
 

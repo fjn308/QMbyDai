@@ -29,3 +29,5 @@
 * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 
 这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的[继任](https://github.com/clsid2/mpc-hc)）都是开源的，在此谨向它们的开发者表示感谢。
+
+注：标记“&dagger;”的是为弥补录音失误做了降噪的版本，这里用到了 Adobe 的 Audition。

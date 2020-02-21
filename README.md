@@ -7,12 +7,12 @@
   * [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
 * 2020年2月18日
   * [3. 光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)
-  * [4. 光的波粒二象性&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)
+  * [4. 光的波粒二象性](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)
   * [5. 玻尔理论](https://github.com/fjn308/QMbyDai/releases/download/20200218.5/20200218.5.7z)
   * [6. 玻尔-索末菲条件，普朗克常数的意义](https://github.com/fjn308/QMbyDai/releases/download/20200218.6/20200218.6.7z)
 * 2020年2月21日
-  * [7. 德布罗意的物质波、物质波与玻尔-索末菲条件&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)
-  * [8. 量子力学的几种等价表述&dagger;](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
+  * [7. 德布罗意的物质波、物质波与玻尔-索末菲条件](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)[^&dagger;]
+  * [8. 量子力学的几种等价表述](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
 * 习题
   * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 
@@ -30,4 +30,4 @@
 
 这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的[继任](https://github.com/clsid2/mpc-hc)）都是开源的，在此谨向它们的开发者表示感谢。
 
-&dagger; 降噪版本。为了弥补录音失误，使用了 Adobe 的 Audition 处理音频。
+[^&dagger;]: 降噪版本。为了弥补录音失误，使用了 Adobe 的 Audition 处理音频。

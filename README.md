@@ -30,4 +30,4 @@
 
 这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的[继任](https://github.com/clsid2/mpc-hc)）都是开源的，在此谨向它们的开发者表示感谢。
 
-&dagger;为了弥补录音失误做过降噪的版本，这里使用了 Adobe 的 Audition。
+&dagger; 降噪版本。为了弥补录音失误，使用了 Adobe 的 Audition处理音频。

@@ -23,8 +23,6 @@
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
----
-
 * 第一章笔记
   * [葛冰慧版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
   * [李佩璇版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)

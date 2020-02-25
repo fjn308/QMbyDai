@@ -13,12 +13,11 @@
 * 2020年2月21日
   * [7. 德布罗意的物质波、物质波与玻尔-索末菲条件<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)
   * [8. 量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
+* 2020年2月24日
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
-* 习题
-  * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
-* 资料
-  * [玻尔-索末菲条件：简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
-* 笔记
+* 其他
+  * [习题：量子浮子（视频）](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)——注：仿照经典振子的求解，用薛定谔方程重做一遍。
+  * [玻尔-索末菲条件：简并（PDF文件）](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 
 以上内容的在线版本发布在微信公众号**大场论**。
 

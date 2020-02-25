@@ -19,7 +19,7 @@
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
 * 其他
-  * [习题：量子浮子（视频）](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)——注：仿照经典振子求解过程，用薛定谔方程重做一遍。
+  * [习题：量子浮子（视频）](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
   * [玻尔-索末菲条件：氢原子的椭圆轨道，简并（PDF文件）](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 
 以上内容的在线版本发布在微信公众号**大场论**。

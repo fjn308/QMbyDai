@@ -2,8 +2,6 @@
 
 这里是戴老师量子力学课的资源发布页，点击视频/文档标题即可下载对应文件：
 
-视频：
-
 * 2020年2月17日
   * [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
   * [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
@@ -18,14 +16,11 @@
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
 * 习题
   * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
-
-文档：
-
 * 资料
   * [玻尔-索末菲条件：简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 * 笔记
 
-以上视频的在线播放版本发布在微信公众号**大场论**。
+以上内容的在线版本发布在微信公众号**大场论**。
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 

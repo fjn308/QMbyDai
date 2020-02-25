@@ -16,7 +16,7 @@
 * 2020年2月24日
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
 * 其他资源
-  * [习题：量子浮子（视频）](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)——注：仿照经典振子的求解过程，用薛定谔方程重做一遍。
+  * [习题：量子浮子（视频）](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)——注：仿照经典振子的求解过程，用薛定谔方程重新做一遍。
   * [玻尔-索末菲条件：简并（PDF文件）](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 
 以上内容的在线版本发布在微信公众号**大场论**。

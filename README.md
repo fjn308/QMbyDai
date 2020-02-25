@@ -1,6 +1,6 @@
 # *Quntum Mechanics* by Gran. Dai
 
-这里是戴老师量子力学课的资源发布页，点击视频/文档标题即可下载对应文件：
+这里是戴老师量子力学课的视频/文档发布页，点击标题即可下载对应文件：
 
 * 2020年2月17日
   * [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)

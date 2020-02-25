@@ -32,6 +32,7 @@
 * [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 
 以上内容的在线版本发布在微信公众号**大场论**。
+
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
 ---

@@ -18,9 +18,14 @@
 * 2020年2月25日
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
-* 其他
-  * [习题：量子浮子（视频）](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
-  * [玻尔-索末菲条件：氢原子的椭圆轨道，简并（PDF文件）](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
+* 其他视频
+  * [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
+
+* 第一章笔记
+  * [葛冰慧版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
+  * [李佩璇版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
+* 其他文档
+  * [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 
 以上内容的在线版本发布在微信公众号**大场论**。
 

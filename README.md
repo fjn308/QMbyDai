@@ -22,6 +22,7 @@
 * 笔记
   * [葛冰慧笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
   * [李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
+  * [赵慧玉笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.05/20200225.05.pdf)
 
 **第二章** **薛定谔方程**
 

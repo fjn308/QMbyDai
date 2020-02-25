@@ -24,8 +24,8 @@
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
 * 第一章笔记
-  * [葛冰慧版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
-  * [李佩璇版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
+  * [葛冰慧笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
+  * [李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
 * 其他文档
   * [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 

@@ -2,7 +2,7 @@
 
 这里是戴老师量子力学课（2020年春季学期）的视频/文档发布页，点击标题即可下载对应文件：
 
-第一章 早期量子论
+**第一章** **早期量子论**
 
 * 2020年2月17日
   * [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
@@ -23,13 +23,13 @@
   * [葛冰慧笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
   * [李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
 
-第二章 薛定谔方程
+**第二章** **薛定谔方程**
 
 * 2020年2月25日
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
 
-其他
+**其他**
 
 * [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 

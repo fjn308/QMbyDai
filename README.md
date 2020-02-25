@@ -21,17 +21,19 @@
 * 其他视频
   * [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 
+<sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
+
+---
+
 * 第一章笔记
   * [葛冰慧版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
   * [李佩璇版本](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
 * 其他文档
   * [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 
-以上内容的在线版本发布在微信公众号**大场论**。
-
-<sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
-
 ---
+
+以上内容的在线版本发布在微信公众号**大场论**。
 
 建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于文件体积的考虑，选择 GitHub 作为发布平台是恶劣网络环境下的无奈之举。每一次从录制到打包，我们都直接用到了以下工具：
 

@@ -2,6 +2,8 @@
 
 这里是戴老师量子力学课的视频/文档发布页，点击标题即可下载对应文件：
 
+第一章 早期量子论
+
 * 2020年2月17日
   * [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
   * [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
@@ -15,21 +17,22 @@
   * [8. 量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
 * 2020年2月24日
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
+* [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
+* [葛冰慧笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
+* [李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
+
+第二章 薛定谔方程
+
 * 2020年2月25日
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
-* 其他视频
-  * [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 
-<sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
+其他
 
-* 第一章 早期量子论
-  * [葛冰慧笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
-  * [李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
-* 其他文档
-  * [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
+* [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
 
 以上内容的在线版本发布在微信公众号**大场论**。
+<sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
 ---
 

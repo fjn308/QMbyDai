@@ -30,9 +30,13 @@
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
 
-**其他**
+**习题**
 
-* [习题：量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
+* [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
+
+**补充**
+
+* [从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.06/20200227.06.7z)
 
 以上内容的在线版本发布在微信公众号**大场论**。
 

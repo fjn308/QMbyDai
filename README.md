@@ -32,6 +32,13 @@
 * 2020年2月28日
   * [12. 几率（定域）守恒和几率流](https://github.com/fjn308/QMbyDai/releases/download/20200228.12/20200228.12.7z)
   * [13. 定态方程](https://github.com/fjn308/QMbyDai/releases/download/20200228.13/20200228.13.7z)
+* 笔记
+  * [葛冰慧笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.08/20200303.08.pdf)
+  * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.09/20200303.09.pdf)
+  * [赵慧玉笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.010/20200303.010.pdf)
+
+**第三章** **一维问题**
+
 * 2020年3月2日
   * [14. 一维定态薛定谔方程、本征方程](https://github.com/fjn308/QMbyDai/releases/download/20200302.14/20200302.14.7z)
   * [15. 简并](https://github.com/fjn308/QMbyDai/releases/download/20200302.15/20200302.15.7z)
@@ -39,11 +46,8 @@
 * 2020年3月3日
   * [17. 宇称](https://github.com/fjn308/QMbyDai/releases/download/20200303.17/20200303.17.7z)
   * [18. 一维束缚态本征函数的节点](https://github.com/fjn308/QMbyDai/releases/download/20200303.18/20200303.18.7z)
-  * [19. 奇异势，无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200303.19/20200303.19.7z)
-* 笔记
-  * [葛冰慧笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.08/20200303.08.pdf)
-  * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.09/20200303.09.pdf)
-  * [赵慧玉笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.010/20200303.010.pdf)
+  * [19. 奇异势，一维无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200303.19/20200303.19.7z)
+
   
 **习题**
 

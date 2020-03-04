@@ -20,19 +20,35 @@
 * 补充材料
   * [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.02/20200221.02.pdf)
 * 笔记
-  * [葛冰慧笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
-  * [李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
-  * [赵慧玉笔记](https://github.com/fjn308/QMbyDai/releases/download/20200225.05/20200225.05.pdf)
+  * [葛冰慧笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.03/20200225.03.pdf)
+  * [李佩璇笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.04/20200225.04.pdf)
+  * [赵慧玉笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.05/20200225.05.pdf)
 
 **第二章** **薛定谔方程**
 
 * 2020年2月25日
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
-
+* 2020年2月28日
+  * [12. 几率（定域）守恒和几率流](https://github.com/fjn308/QMbyDai/releases/download/20200228.12/20200228.12.7z)
+  * [13. 定态方程](https://github.com/fjn308/QMbyDai/releases/download/20200228.13/20200228.13.7z)
+* 2020年3月2日
+  * [14. 一维定态薛定谔方程、本征方程](https://github.com/fjn308/QMbyDai/releases/download/20200302.14/20200302.14.7z)
+  * [15. 简并](https://github.com/fjn308/QMbyDai/releases/download/20200302.15/20200302.15.7z)
+  * [16. 一维定态波函数可表示为实函数](https://github.com/fjn308/QMbyDai/releases/download/20200302.16/20200302.16.7z)
+* 2020年3月3日
+  * [17. 宇称](https://github.com/fjn308/QMbyDai/releases/download/20200303.17/20200303.17.7z)
+  * [18. 一维束缚态本征函数的节点](https://github.com/fjn308/QMbyDai/releases/download/20200303.18/20200303.18.7z)
+  * [19. 奇异势，无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200303.19/20200303.19.7z)
+* 笔记
+  * [葛冰慧笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.08/20200303.08.pdf)
+  * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.09/20200303.09.pdf)
+  * [赵慧玉笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.010/20200303.010.pdf)
+  
 **习题**
 
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.01/20200219.01.7z)
+* [什么情况下定态波函数可取成实函数](https://github.com/fjn308/QMbyDai/releases/download/20200303.07/20200303.07.7z)
 
 **补充**
 

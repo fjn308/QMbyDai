@@ -55,7 +55,8 @@
 **习题**
 
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
-* [什么情况下定态波函数可取成实函数](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.7/20200303.0.7.7z)（[3月6日进展](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.14/20200306.0.14.7z)）
+* [什么情况下定态波函数可取成实函数](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.7/20200303.0.7.7z)
+  * [3月6日进展](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.14/20200306.0.14.7z)
 
 **补充**
 

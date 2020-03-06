@@ -49,7 +49,7 @@
   * [19. 奇异势，一维无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200303.19/20200303.19.7z)
 * 2020年3月6日
   * [20. 有限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.20/20200306.20.7z)
-  * [21. \delta-势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.21/20200306.21.7z)
+  * [21. &delta;-势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.21/20200306.21.7z)
 
   
 **习题**

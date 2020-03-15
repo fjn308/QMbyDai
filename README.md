@@ -17,7 +17,7 @@
   * [8. 量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
 * 2020年2月24日
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
-* 补充材料
+* 资料
   * [玻尔-索末菲条件：氢原子的椭圆轨道，简并](https://github.com/fjn308/QMbyDai/releases/download/20200221.0.2/20200221.0.2.pdf)
 * 笔记
   * [葛冰慧笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.0.3/20200225.0.3.pdf)

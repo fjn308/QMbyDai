@@ -50,8 +50,11 @@
 * 2020年3月6日
   * [20. 有限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.20/20200306.20.7z)
   * [21. &delta;-势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.21/20200306.21.7z)
+  * [22. 谐振子](https://github.com/fjn308/QMbyDai/releases/download/20200309.22/20200309.22.7z)
+  * [23. 一维散射](https://github.com/fjn308/QMbyDai/releases/download/20200310.23/20200310.23.7z)
+  * [24. 周期势](https://github.com/fjn308/QMbyDai/releases/download/20200313.24/20200313.24.7z)
+  * [25. 变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
 
-  
 **习题**
 
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)

@@ -5,8 +5,8 @@
 ## 第一章 早期量子论
 
 * 2月17日
-   * [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
-   * [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
+> [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
+> [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
 * 2月18日
    * [3. 光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)
    * [4. 光的波粒二象性<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)

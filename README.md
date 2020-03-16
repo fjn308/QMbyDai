@@ -55,9 +55,8 @@
 
 ## 第四章 态 力学量 表象
 
-* 3月13日
+* 3月13日——3月16日
 > 25. [变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
-* 3月16日
 > 26. [希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
 
 ## A 习题

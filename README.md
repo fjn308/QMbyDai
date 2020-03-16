@@ -1,6 +1,6 @@
 # *Quntum Mechanics* by Gran. Dai
 
-这里是戴老师量子力学课（2020年春季学期）的视频/笔记发布页，点击标题即可下载对应文件（标下划线的是__公众号文章链接__）：
+这里是戴老师量子力学课（2020年春季学期）的视频/笔记发布页，点击标题即可下载对应文件。
 
 ## 第一章 早期量子论
 
@@ -24,7 +24,7 @@
   * [李佩璇笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.0.3/20200225.0.3.pdf)
   * [赵慧玉笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.0.4/20200225.0.4.pdf)
 
-**第二章** **薛定谔方程**
+## 第二章 薛定谔方程
 
 * 2月25日
   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
@@ -37,7 +37,7 @@
   * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.8/20200303.0.8.pdf)
   * [赵慧玉笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.9/20200303.0.9.pdf)
 
-**第三章** **一维问题**
+## 第三章 一维问题
 
 * 3月2日
   * [14. 一维定态薛定谔方程、本征方程](https://github.com/fjn308/QMbyDai/releases/download/20200302.14/20200302.14.7z)
@@ -62,7 +62,7 @@
   * [折射率](https://mp.weixin.qq.com/s/Cv4gkw-rJcZ4xMFJjKtdBQ)
   * [厄米多项式](https://mp.weixin.qq.com/s/x-KvAjKjz8yzpUylajm3sA)
 
-**第四章** **态 力学量 表象**
+## 第四章 态 力学量 表象
 
 * 3月13日
   * [25. 变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
@@ -74,7 +74,7 @@
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
 * 什么情况下定态波函数可取成实函数：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.6/20200303.0.6.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.13/20200306.0.13.7z)
 
-**补充**
+## 补充
 
 * 从振子到晶体
   * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)

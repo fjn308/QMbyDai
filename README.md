@@ -52,7 +52,7 @@
   * [21. &delta;-势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.21/20200306.21.7z)
 * 3月9日
   * [22. 谐振子](https://github.com/fjn308/QMbyDai/releases/download/20200309.22/20200309.22.7z)
-* 2020年3月10日
+* 3月10日
   * [23. 一维散射](https://github.com/fjn308/QMbyDai/releases/download/20200310.23/20200310.23.7z)
 * 3月13日
   * [24. 周期势](https://github.com/fjn308/QMbyDai/releases/download/20200313.24/20200313.24.7z)

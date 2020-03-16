@@ -5,14 +5,14 @@
 ## 第一章 早期量子论
 
 * 2月17日——2月24日
-  > 1. [经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
-  > 2. [普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
-  > 3. [光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)
-  > 4. [光的波粒二象性<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)
-  > 5. [玻尔理论](https://github.com/fjn308/QMbyDai/releases/download/20200218.5/20200218.5.7z)
-  > 6. [玻尔-索末菲条件，普朗克常数的意义](https://github.com/fjn308/QMbyDai/releases/download/20200218.6/20200218.6.7z)
-  > 7. [德布罗意的物质波、物质波与玻尔-索末菲条件<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)
-  > 8. [量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
+  > [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)
+  > [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
+  > [3. 光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)
+  > [4. 光的波粒二象性<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)
+  > [5. 玻尔理论](https://github.com/fjn308/QMbyDai/releases/download/20200218.5/20200218.5.7z)
+  > [6. 玻尔-索末菲条件，普朗克常数的意义](https://github.com/fjn308/QMbyDai/releases/download/20200218.6/20200218.6.7z)
+  > [7. 德布罗意的物质波、物质波与玻尔-索末菲条件<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.7/20200221.7.7z)
+  > [8. 量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
   > [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
 * 资料<sup>&Dagger;</sup>
    * [玻尔-索末菲条件：简并](https://mp.weixin.qq.com/s/S0zzLP2nqzaT5fXIxPYM_w)

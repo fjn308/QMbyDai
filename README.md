@@ -72,7 +72,7 @@
 **补充**
 
 * 从振子到晶体
-  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.6/20200227.0.6.7z)
+  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.13/20200305.0.13.7z)

@@ -59,6 +59,7 @@
 
 **第四章** **态 力学量 表象**
 
+* 2020年3月13日
   * [25. 变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
 * 2020年3月16日
   * [26. 希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
@@ -66,9 +67,7 @@
 **习题**
 
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
-* 什么情况下定态波函数可取成实函数
-  * [什么情况下定态波函数可取成实函数（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.7/20200303.0.7.7z)
-  * [什么情况下定态波函数可取成实函数（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.14/20200306.0.14.7z)
+* 什么情况下定态波函数可取成实函数[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.7/20200303.0.7.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.14/20200306.0.14.7z)
 
 **补充**
 

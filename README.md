@@ -17,7 +17,7 @@
   * [8. 量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
 * 2月24日
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
-* 资料
+* 资料<sup>&Dagger;</sup>
   * [玻尔-索末菲条件：简并](https://mp.weixin.qq.com/s/S0zzLP2nqzaT5fXIxPYM_w)
 * 笔记
   * [葛冰慧笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.0.2/20200225.0.2.pdf)
@@ -56,7 +56,7 @@
   * [23. 一维散射](https://github.com/fjn308/QMbyDai/releases/download/20200310.23/20200310.23.7z)
 * 3月13日
   * [24. 周期势](https://github.com/fjn308/QMbyDai/releases/download/20200313.24/20200313.24.7z)
-* 资料
+* 资料<sup>&Dagger;</sup>
   * [一维束缚态无简并](https://mp.weixin.qq.com/s/mKdRpDKLB3flnUmoioI5tg)
   * [非简并一维定态波函数可以取成实函数](https://mp.weixin.qq.com/s/61CY_W_wvcJf6wku82Em0w)
   * [折射率](https://mp.weixin.qq.com/s/Cv4gkw-rJcZ4xMFJjKtdBQ)
@@ -81,13 +81,13 @@
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
-  * [3.&ensp; 经典耦合振子](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)
+  * [3.&ensp; 经典耦合振子<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)
 
-以上内容的在线版本发布在微信公众号**大场论**。
+---
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
----
+<sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在微信公众号**大场论**。
 
 建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于文件体积的考虑，选择 GitHub 作为发布平台是恶劣网络环境下的无奈之举。每一次从录制到打包，我们都直接用到了以下工具：
 

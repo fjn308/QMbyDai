@@ -69,12 +69,12 @@
 * 3月16日
   * [26. 希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
 
-## 习题
+## A 习题
 
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
 * 什么情况下定态波函数可取成实函数：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.6/20200303.0.6.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.13/20200306.0.13.7z)
 
-## 补充
+## B 补充
 
 * 从振子到晶体
   * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)

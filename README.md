@@ -56,6 +56,11 @@
   * [23. 一维散射](https://github.com/fjn308/QMbyDai/releases/download/20200310.23/20200310.23.7z)
 * 2020年3月13日
   * [24. 周期势](https://github.com/fjn308/QMbyDai/releases/download/20200313.24/20200313.24.7z)
+* 资料
+  * [一维束缚态无简并](https://mp.weixin.qq.com/s/mKdRpDKLB3flnUmoioI5tg)
+  * [非简并一维定态波函数可以取成实函数](https://mp.weixin.qq.com/s/61CY_W_wvcJf6wku82Em0w)
+  * [折射率](https://mp.weixin.qq.com/s/Cv4gkw-rJcZ4xMFJjKtdBQ)
+  * [厄米多项式](https://mp.weixin.qq.com/s/x-KvAjKjz8yzpUylajm3sA)
 
 **第四章** **态 力学量 表象**
 
@@ -76,6 +81,7 @@
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
+  * [3.&ensp; 经典耦合振子](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)
 
 以上内容的在线版本发布在微信公众号**大场论**。
 

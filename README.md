@@ -33,9 +33,9 @@
   * [12. 几率（定域）守恒和几率流](https://github.com/fjn308/QMbyDai/releases/download/20200228.12/20200228.12.7z)
   * [13. 定态方程](https://github.com/fjn308/QMbyDai/releases/download/20200228.13/20200228.13.7z)
 * 笔记
-  * [葛冰慧笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.8/20200303.0.8.pdf)
-  * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.9/20200303.0.9.pdf)
-  * [赵慧玉笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.10/20200303.0.10.pdf)
+  * [葛冰慧笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.7/20200303.0.7.pdf)
+  * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.8/20200303.0.8.pdf)
+  * [赵慧玉笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.9/20200303.0.9.pdf)
 
 **第三章** **一维问题**
 
@@ -67,15 +67,15 @@
 **习题**
 
 * [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
-* 什么情况下定态波函数可取成实函数：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.6/20200303.0.6.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.14/20200306.0.14.7z)
+* 什么情况下定态波函数可取成实函数：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.6/20200303.0.6.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.13/20200306.0.13.7z)
 
 **补充**
 
 * 从振子到晶体
   * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)
-  * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
-  * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
-  * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.13/20200305.0.13.7z)
+  * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
+  * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
+  * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
 
 以上内容的在线版本发布在微信公众号**大场论**。
 

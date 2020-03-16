@@ -4,7 +4,7 @@
 
 ## 第一章 早期量子论
 
-* 视频（2月17日——2月24日）
+* 课程（2月17日——2月24日）
    > [1. 经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)  
    > [2. 普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)  
    > [3. 光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)  
@@ -23,7 +23,7 @@
 
 ## 第二章 薛定谔方程
 
-* 视频（2月25日——2月28日）
+* 课程（2月25日——2月28日）
    > [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)  
    > [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)  
    > [12. 几率（定域）守恒和几率流](https://github.com/fjn308/QMbyDai/releases/download/20200228.12/20200228.12.7z)  
@@ -35,7 +35,7 @@
 
 ## 第三章 一维问题
 
-* 视频（3月2日——3月13日）
+* 课程（3月2日——3月13日）
    > [14. 一维定态薛定谔方程、本征方程](https://github.com/fjn308/QMbyDai/releases/download/20200302.14/20200302.14.7z)  
    > [15. 简并](https://github.com/fjn308/QMbyDai/releases/download/20200302.15/20200302.15.7z)  
    > [16. 一维定态波函数可表示为实函数](https://github.com/fjn308/QMbyDai/releases/download/20200302.16/20200302.16.7z)  
@@ -55,7 +55,7 @@
 
 ## 第四章 态 力学量 表象
 
-* 视频（3月13日——3月16日）
+* 课程（3月13日——3月16日）
    > [25. 变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)  
    > [26. 希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
 

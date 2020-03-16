@@ -5,10 +5,8 @@
 ## 第一章 早期量子论
 
 * 2月17日
-
 > 1. [经典力学遇到的困难](https://github.com/fjn308/QMbyDai/releases/download/20200217.1/20200217.1.7z)  
 > 2. [普朗克的黑体辐射理论](https://github.com/fjn308/QMbyDai/releases/download/20200217.2/20200217.2.7z)
-
 * 2月18日
 > 3. [光电效应](https://github.com/fjn308/QMbyDai/releases/download/20200218.3/20200218.3.7z)  
 > 4. [光的波粒二象性<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200218.4/20200218.4.7z)  
@@ -29,11 +27,11 @@
 ## 第二章 薛定谔方程
 
 * 2月25日
-   * [10. 薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)
-   * [11. 波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
+> 10. [薛定谔方程](https://github.com/fjn308/QMbyDai/releases/download/20200225.10/20200225.10.7z)  
+> 11. [波函数](https://github.com/fjn308/QMbyDai/releases/download/20200225.11/20200225.11.7z)
 * 2月28日
-   * [12. 几率（定域）守恒和几率流](https://github.com/fjn308/QMbyDai/releases/download/20200228.12/20200228.12.7z)
-   * [13. 定态方程](https://github.com/fjn308/QMbyDai/releases/download/20200228.13/20200228.13.7z)
+> 12. [几率（定域）守恒和几率流](https://github.com/fjn308/QMbyDai/releases/download/20200228.12/20200228.12.7z)  
+> 13. [定态方程](https://github.com/fjn308/QMbyDai/releases/download/20200228.13/20200228.13.7z)
 * 笔记
    * [葛冰慧笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.7/20200303.0.7.pdf)
    * [李佩璇笔记：第二章](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.8/20200303.0.8.pdf)
@@ -42,22 +40,22 @@
 ## 第三章 一维问题
 
 * 3月2日
-   * [14. 一维定态薛定谔方程、本征方程](https://github.com/fjn308/QMbyDai/releases/download/20200302.14/20200302.14.7z)
-   * [15. 简并](https://github.com/fjn308/QMbyDai/releases/download/20200302.15/20200302.15.7z)
-   * [16. 一维定态波函数可表示为实函数](https://github.com/fjn308/QMbyDai/releases/download/20200302.16/20200302.16.7z)
+> 14. [一维定态薛定谔方程、本征方程](https://github.com/fjn308/QMbyDai/releases/download/20200302.14/20200302.14.7z)  
+> 15. [简并](https://github.com/fjn308/QMbyDai/releases/download/20200302.15/20200302.15.7z)  
+> 16. [一维定态波函数可表示为实函数](https://github.com/fjn308/QMbyDai/releases/download/20200302.16/20200302.16.7z)
 * 3月3日
-   * [17. 宇称](https://github.com/fjn308/QMbyDai/releases/download/20200303.17/20200303.17.7z)
-   * [18. 一维束缚态本征函数的节点](https://github.com/fjn308/QMbyDai/releases/download/20200303.18/20200303.18.7z)
-   * [19. 奇异势，一维无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200303.19/20200303.19.7z)
+> 17. [宇称](https://github.com/fjn308/QMbyDai/releases/download/20200303.17/20200303.17.7z)  
+> 18. [一维束缚态本征函数的节点](https://github.com/fjn308/QMbyDai/releases/download/20200303.18/20200303.18.7z)  
+> 19. [奇异势，一维无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200303.19/20200303.19.7z)
 * 3月6日
-   * [20. 有限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.20/20200306.20.7z)
-   * [21. &delta;-势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.21/20200306.21.7z)
+> 20. [有限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.20/20200306.20.7z)  
+> 21. [&delta;-势阱](https://github.com/fjn308/QMbyDai/releases/download/20200306.21/20200306.21.7z)
 * 3月9日
-   * [22. 谐振子](https://github.com/fjn308/QMbyDai/releases/download/20200309.22/20200309.22.7z)
+> 22. [谐振子](https://github.com/fjn308/QMbyDai/releases/download/20200309.22/20200309.22.7z)
 * 3月10日
-   * [23. 一维散射](https://github.com/fjn308/QMbyDai/releases/download/20200310.23/20200310.23.7z)
+> 23. [一维散射](https://github.com/fjn308/QMbyDai/releases/download/20200310.23/20200310.23.7z)
 * 3月13日
-   * [24. 周期势](https://github.com/fjn308/QMbyDai/releases/download/20200313.24/20200313.24.7z)
+> 24. [周期势](https://github.com/fjn308/QMbyDai/releases/download/20200313.24/20200313.24.7z)
 * 资料<sup>&Dagger;</sup>
    * [一维束缚态无简并](https://mp.weixin.qq.com/s/mKdRpDKLB3flnUmoioI5tg)
    * [非简并一维定态波函数可以取成实函数](https://mp.weixin.qq.com/s/61CY_W_wvcJf6wku82Em0w)
@@ -67,9 +65,9 @@
 ## 第四章 态 力学量 表象
 
 * 3月13日
-   * [25. 变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
+> 25. [变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
 * 3月16日
-   * [26. 希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
+> 26. [希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
 
 ## A 习题
 

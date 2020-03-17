@@ -92,7 +92,7 @@
 
 <sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在微信公众号**大场论**。
 
-建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于文件体积的考虑，选择 GitHub 作为发布平台是**（与人类文明、科技发展现状格格不入、毫无必要的）恶劣网络环境下的无奈之举**。每一次从录制到打包，我们都直接用到了以下工具：
+建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于文件体积的考虑，选择 GitHub 作为发布平台是**恶劣网络环境下的无奈之举**。每一次从录制到打包，我们都直接用到了以下工具：
 
 * [OBS Studio](https://github.com/obsproject/obs-studio)
 * [OBSInfoWriter](https://github.com/partouf/OBSInfoWriter)

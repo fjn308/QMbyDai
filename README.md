@@ -104,4 +104,4 @@
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix)
 * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 
-这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的[继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。另外，[哔哩哔哩](https://live.bilibili.com/21811975)、[GitHub](https://github.com/fjn308/QMbyDai) 和[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free)为所有人提供了免费的直播、会议、发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。
+这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的 [继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。另外，[哔哩哔哩](https://live.bilibili.com/21811975)、[GitHub](https://github.com/fjn308/QMbyDai) 和 [腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free) 为所有人提供了免费的直播、会议、发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。

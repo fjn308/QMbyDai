@@ -92,7 +92,7 @@
 
 <sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在微信公众号**大场论**。
 
-建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于体积的考虑，选择 GitHub 作为发布平台是**恶劣网络环境下的无奈之举**。科技在进步，世界在进步，下载一个文件却愈发艰难。这人为塑造的恶劣在人类整体技术水平、文明现状下显得格外扎眼，基于此，下面的感谢是认真的——每一次从录制到打包，我们都直接用到了以下工具：
+建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于体积的考虑，选择 GitHub 作为发布平台是**恶劣网络环境下的无奈之举**。科技在进步，文明在进步，传输一个文件却愈发艰难。这人为塑造的恶劣倒退了科技和文明，显得格外扎眼。基于此，下面的感谢是认真的——每一次从录制到打包，我们都直接用到了以下工具：
 
 * [OBS Studio](https://github.com/obsproject/obs-studio)
 * [OBSInfoWriter](https://github.com/partouf/OBSInfoWriter)
@@ -100,4 +100,4 @@
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix)
 * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 
-这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的[继任](https://github.com/clsid2/mpc-hc)）都是开源的，在此谨向它们的开发者表示感谢。当然，[哔哩哔哩](https://live.bilibili.com/21811975)、[GitHub](https://github.com/fjn308/QMbyDai) 和[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free)为所有人提供了免费的直播、会议、发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。
+这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的[继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。当然，[哔哩哔哩](https://live.bilibili.com/21811975)、[GitHub](https://github.com/fjn308/QMbyDai) 和[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free)为所有人提供了免费的直播、会议、发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。

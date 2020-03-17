@@ -1,6 +1,6 @@
 # *Quntum Mechanics* by Gran. Dai
 
-这里是戴老师量子力学课（2020年春季学期）的视频/文档发布页，点击标题即可下载对应文件。
+这里是戴老师量子力学课（2020年春季学期）的视频/文档发布页，**在这你能找到一切**。点击标题即可下载对应文件。
 
 ## 第一章 早期量子论
 
@@ -68,6 +68,9 @@
   * [25. 变换与运动](https://github.com/fjn308/QMbyDai/releases/download/20200313.25/20200313.25.7z)
 * 3月16日
   * [26. 希尔伯特空间（1）](https://github.com/fjn308/QMbyDai/releases/download/20200316.26/20200316.26.7z)
+* 3月17日
+  * [27. 希尔伯特空间（2）](https://github.com/fjn308/QMbyDai/releases/download/20200317.27/20200317.27.7z)
+  * [28. 算符](https://github.com/fjn308/QMbyDai/releases/download/20200317.28/20200317.28.7z)
 
 ## A 习题
 

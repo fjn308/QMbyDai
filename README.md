@@ -80,13 +80,11 @@
 ## B 补充
 
 * 从振子到晶体
-  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)
-     * [3.&ensp; 经典耦合振子<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)
+  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)（资料<sup>&Dagger;</sup>：[经典耦合振子](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)）
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   
-
 ---
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。

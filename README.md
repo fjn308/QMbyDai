@@ -61,6 +61,10 @@
   * [非简并一维定态波函数可以取成实函数](https://mp.weixin.qq.com/s/61CY_W_wvcJf6wku82Em0w)
   * [折射率](https://mp.weixin.qq.com/s/Cv4gkw-rJcZ4xMFJjKtdBQ)
   * [厄米多项式](https://mp.weixin.qq.com/s/x-KvAjKjz8yzpUylajm3sA)
+* 笔记
+  * [葛冰慧笔记：第三章](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.15/20200319.0.15.pdf)
+  * [李佩璇笔记：第三章](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.16/20200319.0.16.pdf)
+  * [赵慧玉笔记：第三章](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.17/20200319.0.17.pdf)
 
 ## 第四章 态 力学量 表象
 
@@ -84,18 +88,14 @@
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
-  
+  * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
 ---
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
 <sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在微信公众号**大场论**。
 
-建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于体积的考虑，选择 GitHub 作为发布平台是**恶劣网络环境下的无奈之举**：
-
-> 比如，我不愿意“选择”唯一可供选择的网盘，导致你被迫安装一个在电脑主权边缘疯狂试探的客户端、每周忍受三次十几年前都嫌慢的网速、下载时想着是否应该用买会员结束这一切——互联网就不该这样。科技在进步，文明在进步，传输一个文件却愈发艰难。这人造的艰难逆着科技和文明一意孤行，格外扎眼。基于此，下面的感谢是认真的——
-
-每一次从录制到打包，我们都直接用到了以下工具：
+建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于体积的考虑，选择 GitHub 作为发布平台是**恶劣网络环境下的无奈之举**。每一次从录制到打包，我们都直接用到了以下工具：
 
 * [OBS Studio](https://github.com/obsproject/obs-studio)
 * [OBSInfoWriter](https://github.com/partouf/OBSInfoWriter)

@@ -92,7 +92,6 @@
   * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
 
 ## [作业及答案](https://github.com/fjn308/QMbyDai/releases/download/20200321.0.18/20200321.0.18.pdf)
----
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 

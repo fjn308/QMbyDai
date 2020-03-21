@@ -75,6 +75,7 @@
 * 3月17日
   * [27. 希尔伯特空间（2）](https://github.com/fjn308/QMbyDai/releases/download/20200317.27/20200317.27.7z)
   * [28. 算符](https://github.com/fjn308/QMbyDai/releases/download/20200317.28/20200317.28.7z)
+  * [29. 力学量算符，厄米共轭](https://github.com/fjn308/QMbyDai/releases/download/20200320.29/20200320.29.7z)
 
 ## A 习题
 
@@ -89,6 +90,8 @@
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
+
+## [作业及答案](https://github.com/fjn308/QMbyDai/releases/download/20200321.0.18/20200321.0.18.pdf)
 ---
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。

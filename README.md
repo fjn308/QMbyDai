@@ -76,6 +76,7 @@
   * [27. 希尔伯特空间（2）](https://github.com/fjn308/QMbyDai/releases/download/20200317.27/20200317.27.7z)
   * [28. 算符](https://github.com/fjn308/QMbyDai/releases/download/20200317.28/20200317.28.7z)
   * [29. 力学量算符，厄米共轭](https://github.com/fjn308/QMbyDai/releases/download/20200320.29/20200320.29.7z)
+  * [30. 算符运算，泊松括号与对易括号，算符函数，经典与量子对应的不确定性](https://github.com/fjn308/QMbyDai/releases/download/20200323.30/20200323.30.7z)
 
 ## A 习题
 

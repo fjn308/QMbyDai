@@ -75,8 +75,15 @@
 * 3月17日
   * [27. 希尔伯特空间（2）](https://github.com/fjn308/QMbyDai/releases/download/20200317.27/20200317.27.7z)
   * [28. 算符](https://github.com/fjn308/QMbyDai/releases/download/20200317.28/20200317.28.7z)
+* 3月20日
   * [29. 力学量算符，厄米共轭](https://github.com/fjn308/QMbyDai/releases/download/20200320.29/20200320.29.7z)
+* 3月23日
   * [30. 算符运算，泊松括号与对易括号，算符函数，经典与量子对应的不确定性](https://github.com/fjn308/QMbyDai/releases/download/20200323.30/20200323.30.7z)
+* 3月24日
+  * [31. 力学量算符的本征问题](https://github.com/fjn308/QMbyDai/releases/download/20200324.31/20200324.31.7z)
+  * [32. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200324.32/20200324.32.7z)
+* 资料<sup>&Dagger;</sup>
+  * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 
 ## A 习题
 

@@ -99,7 +99,7 @@
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
 
-* [量子力学的拉格朗日表述](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)
+* [量子力学的拉格朗日表述（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)
 
 ## C 作业
 

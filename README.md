@@ -17,8 +17,8 @@
   * [8. 量子力学的几种等价表述<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200221.8/20200221.8.7z)
 * 2月24日
   * [9. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200224.9/20200224.9.7z)
-* 资料<sup>&Dagger;</sup>
-  * [玻尔-索末菲条件：简并](https://mp.weixin.qq.com/s/S0zzLP2nqzaT5fXIxPYM_w)
+* 资料
+  * [玻尔-索末菲条件：简并<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/S0zzLP2nqzaT5fXIxPYM_w)
 * 笔记
   * [葛冰慧笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.0.2/20200225.0.2.pdf)
   * [李佩璇笔记：第一章](https://github.com/fjn308/QMbyDai/releases/download/20200225.0.3/20200225.0.3.pdf)
@@ -84,15 +84,15 @@
   * [32. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200324.32/20200324.32.7z)
 * 3月27日
   * [33. 力学量完全集、守恒量](https://github.com/fjn308/QMbyDai/releases/download/20200327.33/20200327.33.7z)
-* 资料<sup>&Dagger;</sup>
-  * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
+* 资料
+  * [格拉姆-施密特正交化<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 
 ## A 补充
 
-* [量子力学的拉格朗日表述（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)（资料：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）
+* [量子力学的拉格朗日表述（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)（笔记：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）
 
 * 从振子到晶体
-  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)（资料：[经典耦合振子<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)；[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.21/20200327.0.21.pdf)；[赵慧玉笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.22/20200327.0.22.pdf)）
+  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)（资料：[经典耦合振子<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)；笔记：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.21/20200327.0.21.pdf)，[赵慧玉笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.22/20200327.0.22.pdf)）
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)

@@ -82,24 +82,26 @@
 * 3月24日
   * [31. 力学量算符的本征问题](https://github.com/fjn308/QMbyDai/releases/download/20200324.31/20200324.31.7z)
   * [32. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200324.32/20200324.32.7z)
+* 3月27日
+  * [33. 力学量完全集、守恒量](https://github.com/fjn308/QMbyDai/releases/download/20200327.33/20200327.33.7z)
 * 资料<sup>&Dagger;</sup>
   * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 
-## A 习题
+## A 补充
 
-* [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
-* 什么情况下定态波函数可取成实函数：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.6/20200303.0.6.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.13/20200306.0.13.7z)
-
-## B 补充
+* [量子力学的拉格朗日表述（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)（[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）
 
 * 从振子到晶体
-  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)（资料<sup>&Dagger;</sup>：[经典耦合振子](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)）
+  * [1.&ensp; 从振子到晶体](https://github.com/fjn308/QMbyDai/releases/download/20200227.0.5/20200227.0.5.7z)（资料<sup>&Dagger;</sup>：[经典耦合振子](https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA)；[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.21/20200327.0.21.pdf)；[赵慧玉笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.22/20200327.0.22.pdf)）
   * [2.1 晶格](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.10/20200305.0.10.7z)
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
 
-* [量子力学的拉格朗日表述（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)
+## B 习题
+
+* [量子浮子](https://github.com/fjn308/QMbyDai/releases/download/20200219.0.1/20200219.0.1.7z)
+* 什么情况下定态波函数可取成实函数：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200303.0.6/20200303.0.6.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200306.0.13/20200306.0.13.7z)
 
 ## C 作业
 

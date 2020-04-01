@@ -84,6 +84,12 @@
   * [32. 测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200324.32/20200324.32.7z)
 * 3月27日
   * [33. 力学量完全集、守恒量](https://github.com/fjn308/QMbyDai/releases/download/20200327.33/20200327.33.7z)
+* 3月30日
+  * [34. 经典力学结果的量子版：守恒律、牛顿第二定律、维理定理](https://github.com/fjn308/QMbyDai/releases/download/20200330.34/20200330.34.7z)
+  * [35. 表象（1）表象、表象的选取、态矢的表示](https://github.com/fjn308/QMbyDai/releases/download/20200330.35/20200330.35.7z)
+* 3月31日
+  * [36. 表象（2）算符及方程的表示](https://github.com/fjn308/QMbyDai/releases/download/20200331.36/20200331.36.7z)
+  * [37. 表象变换（1）幺正变换](https://github.com/fjn308/QMbyDai/releases/download/20200331.37/20200331.37.7z)
 * 资料
   * [格拉姆-施密特正交化<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 

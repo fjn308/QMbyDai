@@ -97,7 +97,7 @@
 * 资料
   * [格拉姆-施密特正交化<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 
-## A 补充
+## A 专题
 
 * 量子力学的拉格朗日表述：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200402.0.23/20200402.0.23.7z)（笔记：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）
 * 从振子到晶体

@@ -90,6 +90,10 @@
 * 3月31日
   * [36. 表象（2）算符及方程的表示](https://github.com/fjn308/QMbyDai/releases/download/20200331.36/20200331.36.7z)
   * [37. 表象变换（1）幺正变换](https://github.com/fjn308/QMbyDai/releases/download/20200331.37/20200331.37.7z)
+* 4月3日
+  * [38. 表象变换（2）](https://github.com/fjn308/QMbyDai/releases/download/20200403.38/20200403.38.7z)
+  * [39. 坐标算符](https://github.com/fjn308/QMbyDai/releases/download/20200403.39/20200403.39.7z)
+  * [40. 动量算符、&delta;-归一化、箱归一化、周期性边条件](https://github.com/fjn308/QMbyDai/releases/download/20200403.40/20200403.40.7z)
 * 资料
   * [格拉姆-施密特正交化<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 

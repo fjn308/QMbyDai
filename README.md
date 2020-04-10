@@ -94,6 +94,12 @@
   * [38. 表象变换（2）](https://github.com/fjn308/QMbyDai/releases/download/20200403.38/20200403.38.7z)
   * [39. 坐标算符](https://github.com/fjn308/QMbyDai/releases/download/20200403.39/20200403.39.7z)
   * [40. 动量算符、&delta;-归一化、箱归一化、周期性边条件](https://github.com/fjn308/QMbyDai/releases/download/20200403.40/20200403.40.7z)
+* 4月7日
+  * [41. 角动量定义，角动量算符](https://github.com/fjn308/QMbyDai/releases/download/20200407.41/20200407.41.7z)
+* 4月10日
+  * [42. 表象变换举例：坐标表象和动量表象，坐标表象和能量表象](https://github.com/fjn308/QMbyDai/releases/download/20200410.42/20200410.42.7z)
+  * [43. 时间演化算符](https://github.com/fjn308/QMbyDai/releases/download/20200410.43/20200410.43.7z)
+  * [44. 海森堡和薛定谔表述的等价性；绘景](https://github.com/fjn308/QMbyDai/releases/download/20200410.44/20200410.44.7z)
 * 资料
   * [格拉姆-施密特正交化<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
 
@@ -106,6 +112,8 @@
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
+* 量子场论提纲
+  * [1. 为什么需要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
 
 ## B 习题
 

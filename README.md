@@ -112,8 +112,6 @@
   * [2.2 倒格子](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.11/20200305.0.11.7z)
   * [2.3 能带](https://github.com/fjn308/QMbyDai/releases/download/20200305.0.12/20200305.0.12.7z)
   * [3.&ensp; 系综](https://github.com/fjn308/QMbyDai/releases/download/20200319.0.14/20200319.0.14.7z)
-* 量子场论提纲
-  * [1. 为什么需要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
 
 ## B 习题
 
@@ -123,6 +121,10 @@
 ## C 作业
 
 * [作业及答案](https://github.com/fjn308/QMbyDai/releases/download/20200321.0.18/20200321.0.18.pdf)
+
+## D 量子场论提纲
+
+* [1. 为什么需要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
 
 ---
 

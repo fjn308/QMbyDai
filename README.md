@@ -124,7 +124,7 @@
 
 ## D 量子场论提纲
 
-* [1. 为什么需要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
+* [1. 为什么要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
 
 ---
 

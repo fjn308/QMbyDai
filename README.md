@@ -100,8 +100,8 @@
   * [42. 表象变换举例：坐标表象和动量表象，坐标表象和能量表象](https://github.com/fjn308/QMbyDai/releases/download/20200410.42/20200410.42.7z)
   * [43. 时间演化算符](https://github.com/fjn308/QMbyDai/releases/download/20200410.43/20200410.43.7z)
   * [44. 海森堡和薛定谔表述的等价性；绘景](https://github.com/fjn308/QMbyDai/releases/download/20200410.44/20200410.44.7z)
-* 资料
-  * [格拉姆-施密特正交化<sup>&Dagger;</sup>](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
+* 资料<sup>&Dagger;</sup>
+  * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
   * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)
 
 ## A 专题

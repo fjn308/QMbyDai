@@ -109,6 +109,9 @@
 * 4月17日
   * [49. 两体问题](https://github.com/fjn308/QMbyDai/releases/download/20200417.49/20200417.49.7z)
   * [50. 氢原子（1）](https://github.com/fjn308/QMbyDai/releases/download/20200417.50/20200417.50.7z)
+* 4月20日
+  * [51. 氢原子（2）](https://github.com/fjn308/QMbyDai/releases/download/20200420.51/20200420.51.7z)
+  * [52. 球无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200420.52/20200420.52.7z)
 * 资料<sup>&Dagger;</sup>
   * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
   * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)

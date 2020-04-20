@@ -100,6 +100,12 @@
   * [42. 表象变换举例：坐标表象和动量表象，坐标表象和能量表象](https://github.com/fjn308/QMbyDai/releases/download/20200410.42/20200410.42.7z)
   * [43. 时间演化算符](https://github.com/fjn308/QMbyDai/releases/download/20200410.43/20200410.43.7z)
   * [44. 海森堡和薛定谔表述的等价性；绘景](https://github.com/fjn308/QMbyDai/releases/download/20200410.44/20200410.44.7z)
+* 资料<sup>&Dagger;</sup>
+  * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
+  * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)
+
+## 第五章 有心力
+
 * 4月13日
   * [45. 有心力；角动量守恒](https://github.com/fjn308/QMbyDai/releases/download/20200413.45/20200413.45.7z)
   * [46. 角向方程](https://github.com/fjn308/QMbyDai/releases/download/20200413.46/20200413.46.7z)
@@ -112,9 +118,6 @@
 * 4月20日
   * [51. 氢原子（2）](https://github.com/fjn308/QMbyDai/releases/download/20200420.51/20200420.51.7z)
   * [52. 球无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200420.52/20200420.52.7z)
-* 资料<sup>&Dagger;</sup>
-  * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
-  * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)
 
 ## A 专题
 

@@ -106,6 +106,9 @@
 * 4月14日
   * [47. 径向方程](https://github.com/fjn308/QMbyDai/releases/download/20200414.47/20200414.47.7z)
   * [48. 径向方程的渐近，长程势与短程势](https://github.com/fjn308/QMbyDai/releases/download/20200414.48/20200414.48.7z)
+* 4月17日
+  * [49. 两体问题](https://github.com/fjn308/QMbyDai/releases/download/20200417.49/20200417.49.7z)
+  * [50. 氢原子（1）](https://github.com/fjn308/QMbyDai/releases/download/20200417.50/20200417.50.7z)
 * 资料<sup>&Dagger;</sup>
   * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
   * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)
@@ -132,6 +135,8 @@
 ## D 量子场论提纲
 
 * [1. 为什么要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
+* [2. 李群](https://github.com/fjn308/QMbyDai/releases/download/20200416.0.25/20200416.0.25.7z)
+* [3. 典型群](https://github.com/fjn308/QMbyDai/releases/download/20200418.0.26/20200418.0.26.7z)
 
 ---
 

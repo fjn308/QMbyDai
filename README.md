@@ -118,6 +118,9 @@
 * 4月20日
   * [51. 氢原子（2）](https://github.com/fjn308/QMbyDai/releases/download/20200420.51/20200420.51.7z)
   * [52. 球无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200420.52/20200420.52.7z)
+
+## 第六章 自旋
+
 * 4月21日
   * [53. 施特恩-盖拉赫实验](https://github.com/fjn308/QMbyDai/releases/download/20200421.53/20200421.53.7z)
   * [54. 自旋](https://github.com/fjn308/QMbyDai/releases/download/20200421.54/20200421.54.7z)

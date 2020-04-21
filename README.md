@@ -146,6 +146,15 @@
 
 ---
 
+# 量子场论提纲
+
+* 4月9日
+  * [1. 为什么要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
+* 4月16日
+  * [2. 李群](https://github.com/fjn308/QMbyDai/releases/download/20200416.0.25/20200416.0.25.7z)
+* 4月18日
+  * [3. 典型群](https://github.com/fjn308/QMbyDai/releases/download/20200418.0.26/20200418.0.26.7z)
+
 > <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 >
 > <sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在微信公众号**大场论**。
@@ -159,14 +168,3 @@
 > * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 >
 > 这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的 [继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。另外，[哔哩哔哩](https://live.bilibili.com/21811975)、[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free) 和 [GitHub](https://github.com/fjn308/QMbyDai) 为所有人提供了免费的直播、会议、发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。
-
----
-
-# 量子场论提纲
-
-* 4月9日
-  * [1. 为什么要量子场](https://github.com/fjn308/QMbyDai/releases/download/20200409.0.24/20200409.0.24.7z)
-* 4月16日
-  * [2. 李群](https://github.com/fjn308/QMbyDai/releases/download/20200416.0.25/20200416.0.25.7z)
-* 4月18日
-  * [3. 典型群](https://github.com/fjn308/QMbyDai/releases/download/20200418.0.26/20200418.0.26.7z)

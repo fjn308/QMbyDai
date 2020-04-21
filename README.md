@@ -155,6 +155,8 @@
 * 4月18日
   * [3. 典型群](https://github.com/fjn308/QMbyDai/releases/download/20200418.0.26/20200418.0.26.7z)
 
+---
+
 > <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 >
 > <sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在微信公众号**大场论**。

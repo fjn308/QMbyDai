@@ -154,6 +154,9 @@
   * [2. 李群](https://github.com/fjn308/QMbyDai/releases/download/20200416.0.25/20200416.0.25.7z)
 * 4月18日
   * [3. 典型群](https://github.com/fjn308/QMbyDai/releases/download/20200418.0.26/20200418.0.26.7z)
+* 4月23日
+  * [4. 李代数](https://github.com/fjn308/QMbyDai/releases/download/20200423.0.27/20200423.0.27.7z)
+  * [5. 李群表示](https://github.com/fjn308/QMbyDai/releases/download/20200423.0.28/20200423.0.28.7z)
 
 ---
 

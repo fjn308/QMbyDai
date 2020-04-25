@@ -103,6 +103,10 @@
 * 资料<sup>&Dagger;</sup>
   * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
   * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)
+* 笔记
+  * [葛冰慧笔记：第四章](https://github.com/fjn308/QMbyDai/releases/download/20200425.0.30/20200425.0.30.pdf)
+  * [李佩璇笔记：第四章](https://github.com/fjn308/QMbyDai/releases/download/20200425.0.31/20200425.0.31.pdf)
+  * [赵慧玉笔记：第四章](https://github.com/fjn308/QMbyDai/releases/download/20200425.0.32/20200425.0.32.pdf)
 
 ## 第五章 有心力
 
@@ -124,6 +128,8 @@
 * 4月21日
   * [53. 施特恩-盖拉赫实验](https://github.com/fjn308/QMbyDai/releases/download/20200421.53/20200421.53.7z)
   * [54. 自旋](https://github.com/fjn308/QMbyDai/releases/download/20200421.54/20200421.54.7z)
+* 4月24日
+  * [55. 自旋态；自旋算符]()
 
 ## A 专题
 
@@ -157,6 +163,8 @@
 * 4月23日
   * [4. 李代数](https://github.com/fjn308/QMbyDai/releases/download/20200423.0.27/20200423.0.27.7z)
   * [5. 李群表示](https://github.com/fjn308/QMbyDai/releases/download/20200423.0.28/20200423.0.28.7z)
+* 4月25日
+  * [6. 黎曼面]()
 
 ---
 

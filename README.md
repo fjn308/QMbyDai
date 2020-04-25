@@ -129,7 +129,7 @@
   * [53. 施特恩-盖拉赫实验](https://github.com/fjn308/QMbyDai/releases/download/20200421.53/20200421.53.7z)
   * [54. 自旋](https://github.com/fjn308/QMbyDai/releases/download/20200421.54/20200421.54.7z)
 * 4月24日
-  * [55. 自旋态；自旋算符]()
+  * [55. 自旋态；自旋算符](https://github.com/fjn308/QMbyDai/releases/download/20200424.55/20200424.55.7z)
 
 ## A 专题
 

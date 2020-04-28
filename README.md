@@ -135,6 +135,9 @@
   * [57. 角动量耦合，耦合表象和无耦合表象](https://github.com/fjn308/QMbyDai/releases/download/20200426.57/20200426.57.7z)
 * 4月27日
   * [58. 定态微扰论：非简并微扰](https://github.com/fjn308/QMbyDai/releases/download/20200427.58/20200427.58.7z)
+* 4月28日
+  * [59. 外场中的谐振子：非简并微扰](https://github.com/fjn308/QMbyDai/releases/download/20200428.59/20200428.59.7z)
+  * [60. 简并微扰](https://github.com/fjn308/QMbyDai/releases/download/20200428.60/20200428.60.7z)
 
 ## A 专题
 

@@ -176,6 +176,8 @@
   * [5. 李群表示](https://github.com/fjn308/QMbyDai/releases/download/20200423.0.28/20200423.0.28.7z)
 * 4月25日
   * [6. 黎曼面](https://github.com/fjn308/QMbyDai/releases/download/20200425.0.29/20200425.0.29.7z)
+* 4月30日
+  * [7. 李群的多值表示](https://github.com/fjn308/QMbyDai/releases/download/20200430.0.33/20200430.0.33.7z)
 
 ---
 

@@ -133,7 +133,7 @@
 * 4月24日
   * [55. 自旋态；自旋算符](https://github.com/fjn308/QMbyDai/releases/download/20200424.55/20200424.55.7z)
 * 4月26日
-  * [56. 自旋二分之一粒子](https://github.com/fjn308/QMbyDai/releases/download/20200426.56/20200426.56.7z)
+  * [56. 自旋1/2粒子](https://github.com/fjn308/QMbyDai/releases/download/20200426.56/20200426.56.7z)
   * [57. 角动量耦合，耦合表象和无耦合表象](https://github.com/fjn308/QMbyDai/releases/download/20200426.57/20200426.57.7z)
 
 ## 第七章 定态问题的近似方法

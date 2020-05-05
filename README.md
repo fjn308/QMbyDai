@@ -101,7 +101,7 @@
   * [43. 时间演化算符](https://github.com/fjn308/QMbyDai/releases/download/20200410.43/20200410.43.7z)
   * [44. 海森堡和薛定谔表述的等价性；绘景](https://github.com/fjn308/QMbyDai/releases/download/20200410.44/20200410.44.7z)
 * 5月5日
-  * [补充：纠缠态](https://github.com/fjn308/QMbyDai/releases/download/20200505.0.34/20200505.0.34.7z)
+  * [44+1. 纠缠态](https://github.com/fjn308/QMbyDai/releases/download/20200505.0.34/20200505.0.34.7z)
 * 资料<sup>&Dagger;</sup>
   * [格拉姆-施密特正交化](https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA)
   * [勒让德多项式](https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA)

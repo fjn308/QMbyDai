@@ -143,6 +143,9 @@
 * 4月28日
   * [59. 外场中的谐振子：非简并微扰](https://github.com/fjn308/QMbyDai/releases/download/20200428.59/20200428.59.7z)
   * [60. 简并微扰](https://github.com/fjn308/QMbyDai/releases/download/20200428.60/20200428.60.7z)
+* 5月8日
+  * [61. 斯塔克效应](https://github.com/fjn308/QMbyDai/releases/download/20200508.61/20200508.61.7z)
+  * [62. 变分法](https://github.com/fjn308/QMbyDai/releases/download/20200508.62/20200508.62.7z)
 
 ## A 专题
 
@@ -180,6 +183,8 @@
   * [6. 黎曼面](https://github.com/fjn308/QMbyDai/releases/download/20200425.0.29/20200425.0.29.7z)
 * 4月30日
   * [7. 李群的多值表示](https://github.com/fjn308/QMbyDai/releases/download/20200430.0.33/20200430.0.33.7z)
+* 5月7日
+  * [8. 洛伦兹群和洛伦兹群的表示](https://github.com/fjn308/QMbyDai/releases/download/20200507.0.35/20200507.0.35.7z)
 
 ---
 

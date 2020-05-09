@@ -146,6 +146,9 @@
 * 5月8日
   * [61. 斯塔克效应](https://github.com/fjn308/QMbyDai/releases/download/20200508.61/20200508.61.7z)
   * [62. 变分法](https://github.com/fjn308/QMbyDai/releases/download/20200508.62/20200508.62.7z)
+* 5月9日
+  * [63. 氦原子基态（变分法）](https://github.com/fjn308/QMbyDai/releases/download/20200509.63/20200509.63.7z)
+  * [64. 时间演化（不含时情况）](https://github.com/fjn308/QMbyDai/releases/download/20200509.64/20200509.64.7z)
 
 ## A 专题
 

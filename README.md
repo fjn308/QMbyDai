@@ -155,6 +155,10 @@
   * [64. 时间演化（不含时情况）](https://github.com/fjn308/QMbyDai/releases/download/20200509.64/20200509.64.7z)
 * 5月11日
   * [65. 含时问题的近似方法；含时微扰](https://github.com/fjn308/QMbyDai/releases/download/20200511.65/20200511.65.7z)
+* 5月12日
+  * [66. 连续谱末态](https://github.com/fjn308/QMbyDai/releases/download/20200512.66/20200512.66.7z)
+  * [67. 定常微扰下的跃迁，费米黄金法则](https://github.com/fjn308/QMbyDai/releases/download/20200512.67/20200512.67.7z)
+
 ## A 专题
 
 * 量子力学的拉格朗日表述：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200402.0.23/20200402.0.23.7z)（笔记：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）

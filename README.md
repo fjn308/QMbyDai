@@ -217,7 +217,7 @@
 * 5月7日
   * [8. 洛伦兹群和洛伦兹群的表示](https://github.com/fjn308/QMbyDai/releases/download/20200507.0.35/20200507.0.35.7z)
 * 5月14日
-  * 9\. 从经典场到量子场
+  * [9. 从经典场到量子场](https://github.com/fjn308/QMbyDai/releases/download/20200514.0.36/20200514.0.36.7z)
 * 5月20日
   * 10\. 自由场拉氏量（1）
 

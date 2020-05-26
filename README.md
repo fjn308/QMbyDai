@@ -161,7 +161,7 @@
   * [66. 连续谱末态](https://github.com/fjn308/QMbyDai/releases/download/20200512.66/20200512.66.7z)
   * [67. 定常微扰下的跃迁，费米黄金法则](https://github.com/fjn308/QMbyDai/releases/download/20200512.67/20200512.67.7z)
 * 5月15日
-  * 68\. 周期微扰下的跃迁；时间的测不准关系
+  * [68. 周期微扰下的跃迁；时间的测不准关系](https://github.com/fjn308/QMbyDai/releases/download/20200515.68/20200515.68.7z)
 * 5月18日
   * 69\. 光的发射和吸收：爱因斯坦
 * 5月19日

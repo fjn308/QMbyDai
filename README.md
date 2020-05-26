@@ -87,7 +87,7 @@
 * 3月27日
   * [33. 力学量完全集、守恒量](https://github.com/fjn308/QMbyDai/releases/download/20200327.33/20200327.33.7z)
 * 5月26日
-  * 33+1\. 简并
+  * 33+1\. 简并（续）
 * 3月30日
   * [34. 经典力学结果的量子版：守恒律、牛顿第二定律、维理定理](https://github.com/fjn308/QMbyDai/releases/download/20200330.34/20200330.34.7z)
   * [35. 表象（1）表象、表象的选取、态矢的表示](https://github.com/fjn308/QMbyDai/releases/download/20200330.35/20200330.35.7z)

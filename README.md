@@ -85,7 +85,7 @@
 * 3月27日
   * [33. 力学量完全集、守恒量](https://github.com/fjn308/QMbyDai/releases/download/20200327.33/20200327.33.7z)
 * 5月26日
-  * 33+1\. 简并（续）
+  * [33+1. 简并（续）](https://github.com/fjn308/QMbyDai/releases/download/20200526.0.38/20200526.0.38.7z)
 * 3月30日
   * [34. 经典力学结果的量子版：守恒律、牛顿第二定律、维理定理](https://github.com/fjn308/QMbyDai/releases/download/20200330.34/20200330.34.7z)
   * [35. 表象（1）表象、表象的选取、态矢的表示](https://github.com/fjn308/QMbyDai/releases/download/20200330.35/20200330.35.7z)
@@ -167,16 +167,16 @@
 * 5月19日
   * [70. 光的发射和吸收：爱因斯坦系数、辐射强度、激发态寿命](https://github.com/fjn308/QMbyDai/releases/download/20200519.70/20200519.70.7z)
 * 5月22日
-  * 71\. 光的发射和吸收：激光
+  * [71. 光的发射和吸收：激光](https://github.com/fjn308/QMbyDai/releases/download/20200522.71/20200522.71.7z)
 * 5月25日
-  * 72\. 光的发射和吸收：电偶极跃迁选择定则
+  * [72. 光的发射和吸收：电偶极跃迁选择定则](https://github.com/fjn308/QMbyDai/releases/download/20200525.72/20200525.72.7z)
 
 ## 第九章 全同粒子
 
 * 5月25日
-  * 73\. 可分辨与不可分辨
+  * [73. 可分辨与不可分辨](https://github.com/fjn308/QMbyDai/releases/download/20200525.73/20200525.73.7z)
 * 5月26日
-  * 74\. 全同性原理；交换对称性与统计
+  * [74. 全同性原理；交换对称性与统计](https://github.com/fjn308/QMbyDai/releases/download/20200526.74/20200526.74.7z)
 
 ## A 专题
 
@@ -219,7 +219,7 @@
 * 5月14日
   * [9. 从经典场到量子场](https://github.com/fjn308/QMbyDai/releases/download/20200514.0.36/20200514.0.36.7z)
 * 5月20日
-  * 10\. 自由场拉氏量（1）
+  * [10. 自由场拉氏量（1）](https://github.com/fjn308/QMbyDai/releases/download/20200520.0.37/20200520.0.37.7z)
 
 ---
 

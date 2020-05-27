@@ -126,6 +126,10 @@
 * 4月20日
   * [51. 氢原子（2）](https://github.com/fjn308/QMbyDai/releases/download/20200420.51/20200420.51.7z)
   * [52. 球无限深势阱](https://github.com/fjn308/QMbyDai/releases/download/20200420.52/20200420.52.7z)
+* 笔记
+  * [葛冰慧笔记：第五章](https://github.com/fjn308/QMbyDai/releases/download/20200527.0.39/20200527.0.39.pdf)
+  * [李佩璇笔记：第五章](https://github.com/fjn308/QMbyDai/releases/download/20200527.0.40/20200527.0.40.pdf)
+  * [赵慧玉笔记：第五章](https://github.com/fjn308/QMbyDai/releases/download/20200527.0.41/20200527.0.41.pdf)
 
 ## 第六章 自旋
 

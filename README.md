@@ -2,8 +2,6 @@
 
 这里是 [戴老师](http://blog.sciencenet.cn/u/GrandFT) 量子力学课（2020年春季学期）的视频/文档发布页，**在这你能找到一切**。点击标题即可下载对应文件。
 
-<!--为一群冷漠（建议了也不使用 Watch）且吝惜谢意（请求了也懒得点 Star）的学生做义务劳动是自取其辱（大量精力投入 + 受众真实明确 =(一个学期)= 0 Watch + 1 Star）。维护本仓库完全是出于对戴老师个人的尊敬和恩情回报，这帮学生不配。想到他们我就恶心，类似的事不会再有。-->
-
 ## 第一章 早期量子论
 
 * 2月17日
@@ -242,5 +240,3 @@
 * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 
 这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的 [继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。另外，[哔哩哔哩](https://live.bilibili.com/21811975)、[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free) 和 [GitHub](https://github.com/fjn308/QMbyDai) 为所有人提供了免费的直播、会议、发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。
-
-<!--我要 Star，给我 Star，快点 Star！-->

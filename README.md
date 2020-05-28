@@ -223,7 +223,9 @@
 * 5月14日
   * [9. 从经典场到量子场](https://github.com/fjn308/QMbyDai/releases/download/20200514.0.36/20200514.0.36.7z)
 * 5月20日
-  * [10. 自由场拉氏量（1）](https://github.com/fjn308/QMbyDai/releases/download/20200520.0.37/20200520.0.37.7z)
+  * [10. 自由场拉氏量（1）力学；标量场](https://github.com/fjn308/QMbyDai/releases/download/20200520.0.37/20200520.0.37.7z)
+* 5月28日
+  * 11\. 自由场拉氏量（2）旋量场
 
 ---
 

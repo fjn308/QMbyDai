@@ -181,6 +181,8 @@
   * [73. 可分辨与不可分辨](https://github.com/fjn308/QMbyDai/releases/download/20200525.73/20200525.73.7z)
 * 5月26日
   * [74. 全同性原理；交换对称性与统计](https://github.com/fjn308/QMbyDai/releases/download/20200526.74/20200526.74.7z)
+* 5月29日
+  * 75\. 对称化与反对称化；不相容原理；交换作用
 
 ## A 专题
 

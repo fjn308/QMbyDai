@@ -182,10 +182,10 @@
 * 5月26日
   * [74. 全同性原理；交换对称性与统计](https://github.com/fjn308/QMbyDai/releases/download/20200526.74/20200526.74.7z)
 * 5月29日
-  * 75\. 对称化与反对称化；不相容原理；交换作用
+  * [75. 对称化与反对称化；不相容原理；交换作用](https://github.com/fjn308/QMbyDai/releases/download/20200529.75/20200529.75.7z)
 * 6月1日
-  * 76\. 交换作用
-  * 77\. 自旋态（1）
+  * [76. 交换作用](https://github.com/fjn308/QMbyDai/releases/download/20200601.76/20200601.76.7z)
+  * [77. 自旋态（1）](https://github.com/fjn308/QMbyDai/releases/download/20200601.77/20200601.77.7z)
 * 6月2日
   * 78\. 自旋态（2）举例：两电子情况
 
@@ -232,7 +232,7 @@
 * 5月20日
   * [10. 自由场拉氏量（1）力学；标量场](https://github.com/fjn308/QMbyDai/releases/download/20200520.0.37/20200520.0.37.7z)
 * 5月28日
-  * 11\. 自由场拉氏量（2）旋量场
+  * [11. 自由场拉氏量（2）旋量场](https://github.com/fjn308/QMbyDai/releases/download/20200528.0.42/20200528.0.42.7z)
 
 ---
 

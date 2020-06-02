@@ -187,7 +187,7 @@
   * [76. 交换作用](https://github.com/fjn308/QMbyDai/releases/download/20200601.76/20200601.76.7z)
   * [77. 自旋态（1）](https://github.com/fjn308/QMbyDai/releases/download/20200601.77/20200601.77.7z)
 * 6月2日
-  * 78\. 自旋态（2）举例：两电子情况
+  * [78. 自旋态（2）举例：两电子情况](https://github.com/fjn308/QMbyDai/releases/download/20200602.78/20200602.78.7z)
 
 ## A 专题
 

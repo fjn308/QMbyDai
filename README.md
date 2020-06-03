@@ -141,6 +141,10 @@
 * 4月26日
   * [56. 自旋1/2粒子](https://github.com/fjn308/QMbyDai/releases/download/20200426.56/20200426.56.7z)
   * [57. 角动量耦合，耦合表象和无耦合表象](https://github.com/fjn308/QMbyDai/releases/download/20200426.57/20200426.57.7z)
+* 笔记
+  * [葛冰慧笔记：第六章](https://github.com/fjn308/QMbyDai/releases/download/20200603.0.43/20200603.0.43.pdf)
+  * [李佩璇笔记：第六章](https://github.com/fjn308/QMbyDai/releases/download/20200603.0.44/20200603.0.44.pdf)
+  * [赵慧玉笔记：第六章](https://github.com/fjn308/QMbyDai/releases/download/20200603.0.45/20200603.0.45.pdf)
 
 ## 第七章 定态问题的近似方法
 

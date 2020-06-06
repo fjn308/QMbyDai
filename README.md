@@ -193,7 +193,7 @@
 * 6月2日
   * [78. 自旋态（2）举例：两电子情况](https://github.com/fjn308/QMbyDai/releases/download/20200602.78/20200602.78.7z)
 * 6月5日
-  * 79\. 氦原子
+  * [79. 氦原子](https://github.com/fjn308/QMbyDai/releases/download/20200605.79/20200605.79.7z)
 
 ## A 专题
 
@@ -240,7 +240,7 @@
 * 5月28日
   * [11. 自由场拉氏量（2）旋量场](https://github.com/fjn308/QMbyDai/releases/download/20200528.0.42/20200528.0.42.7z)
 * 6月4日
-  * 12\. 自由场拉氏量（3）矢量场
+  * [12. 自由场拉氏量（3）矢量场](https://github.com/fjn308/QMbyDai/releases/download/20200604.0.46/20200604.0.46.7z)
 
 ---
 

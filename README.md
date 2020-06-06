@@ -158,6 +158,10 @@
   * [62. 变分法](https://github.com/fjn308/QMbyDai/releases/download/20200508.62/20200508.62.7z)
 * 5月9日
   * [63. 氦原子基态（变分法）](https://github.com/fjn308/QMbyDai/releases/download/20200509.63/20200509.63.7z)
+* 笔记
+  * [葛冰慧笔记：第七章](https://github.com/fjn308/QMbyDai/releases/download/20200607.0.47/20200607.0.47.pdf)
+  * [李佩璇笔记：第七章](https://github.com/fjn308/QMbyDai/releases/download/20200607.0.48/20200607.0.48.pdf)
+  * [赵慧玉笔记：第七章](https://github.com/fjn308/QMbyDai/releases/download/20200607.0.49/20200607.0.49.pdf)
 
 ## 第八章 时间演化与含时微扰
 

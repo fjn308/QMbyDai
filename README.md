@@ -199,6 +199,15 @@
 * 6月5日
   * [79. 氦原子](https://github.com/fjn308/QMbyDai/releases/download/20200605.79/20200605.79.7z)
 
+## 第十章 散射
+
+* 6月8日
+  * 80\. 散射；定态散射方程和散射边条件
+* 6月9日
+  * 81\. 散射相移
+  * 82\. 无穷远渐近近似
+  * 83\. 散射截面；散射振幅
+
 ## A 专题
 
 * 量子力学的拉格朗日表述：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200402.0.23/20200402.0.23.7z)（笔记：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）

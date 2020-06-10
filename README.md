@@ -204,9 +204,9 @@
 * 6月8日
   * [80. 散射；定态散射方程和散射边条件](https://github.com/fjn308/QMbyDai/releases/download/20200608.80/20200608.80.7z)
 * 6月9日
-  * 81\. 散射相移
-  * 82\. 无穷远渐近近似
-  * 83\. 散射截面；散射振幅
+  * [81. 散射相移](https://github.com/fjn308/QMbyDai/releases/download/20200609.81/20200609.81.7z)
+  * [82. 无穷远渐近近似](https://github.com/fjn308/QMbyDai/releases/download/20200609.82/20200609.82.7z)
+  * [83. 散射截面；散射振幅](https://github.com/fjn308/QMbyDai/releases/download/20200609.83/20200609.83.7z)
 
 ## A 专题
 

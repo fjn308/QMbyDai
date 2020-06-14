@@ -263,7 +263,7 @@
 
 <sup>&dagger;</sup>降噪版本。为了弥补录音失误，用 Adobe Audition 处理了音频。
 
-<sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在[哔哩哔哩](https://space.bilibili.com/442459915)和微信公众号**大场论**。
+<sup>&Dagger;</sup>在线内容。本页其他内容的在线版本亦发布在 [哔哩哔哩](https://space.bilibili.com/442459915) 和微信公众号**大场论**。
 
 建议使用 [7-Zip](https://www.7-zip.org/download.html) 解压压缩文件，使用 [MPC-HC](https://mpc-hc.org/downloads/) 播放视频文件。这里选择上传压缩文件而非视频文件是出于体积的考虑，选择 GitHub 作为发布平台是**为了尽可能地降低下载成本<!--原文：恶劣网络环境下的无奈之举-->**。每一次从录制到打包，我们都直接用到了以下工具：
 

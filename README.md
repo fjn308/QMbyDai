@@ -208,9 +208,9 @@
   * [82. 无穷远渐近近似](https://github.com/fjn308/QMbyDai/releases/download/20200609.82/20200609.82.7z)
   * [83. 散射截面；散射振幅](https://github.com/fjn308/QMbyDai/releases/download/20200609.83/20200609.83.7z)
 * 6月12日
-  * 84\. 分波法
-  * 85\. 光学定理
-  * 86\. 散射波函数的另一个形式（附录）
+  * [84. 分波法](https://github.com/fjn308/QMbyDai/releases/download/20200612.84/20200612.84.7z)
+  * [85. 光学定理](https://github.com/fjn308/QMbyDai/releases/download/20200612.85/20200612.85.7z)
+  * [86. 散射波函数的另一个形式（附录）](https://github.com/fjn308/QMbyDai/releases/download/20200612.86/20200612.86.7z)
 
 ## A 专题
 

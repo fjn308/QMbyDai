@@ -182,6 +182,10 @@
   * [71. 光的发射和吸收：激光](https://github.com/fjn308/QMbyDai/releases/download/20200522.71/20200522.71.7z)
 * 5月25日
   * [72. 光的发射和吸收：电偶极跃迁选择定则](https://github.com/fjn308/QMbyDai/releases/download/20200525.72/20200525.72.7z)
+* 笔记
+  * [葛冰慧笔记：第八章](https://github.com/fjn308/QMbyDai/releases/download/20200615.0.50/20200615.0.50.pdf)
+  * [李佩璇笔记：第八章](https://github.com/fjn308/QMbyDai/releases/download/20200615.0.51/20200615.0.51.pdf)
+  * [赵慧玉笔记：第八章](https://github.com/fjn308/QMbyDai/releases/download/20200615.0.52/20200615.0.52.pdf)
 
 ## 第九章 全同粒子
 
@@ -198,6 +202,10 @@
   * [78. 自旋态（2）举例：两电子情况](https://github.com/fjn308/QMbyDai/releases/download/20200602.78/20200602.78.7z)
 * 6月5日
   * [79. 氦原子](https://github.com/fjn308/QMbyDai/releases/download/20200605.79/20200605.79.7z)
+* 笔记
+  * [葛冰慧笔记：第九章](https://github.com/fjn308/QMbyDai/releases/download/20200615.0.53/20200615.0.53.pdf)
+  * [李佩璇笔记：第九章](https://github.com/fjn308/QMbyDai/releases/download/20200615.0.54/20200615.0.54.pdf)
+  * [赵慧玉笔记：第九章](https://github.com/fjn308/QMbyDai/releases/download/20200615.0.55/20200615.0.55.pdf)
 
 ## 第十章 散射
 

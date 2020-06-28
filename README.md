@@ -266,6 +266,8 @@
   * [11. 自由场拉氏量（2）旋量场](https://github.com/fjn308/QMbyDai/releases/download/20200528.0.42/20200528.0.42.7z)
 * 6月4日
   * [12. 自由场拉氏量（3）矢量场](https://github.com/fjn308/QMbyDai/releases/download/20200604.0.46/20200604.0.46.7z)
+* 笔记
+  * [曹博星笔记](https://github.com/fjn308/QMbyDai/releases/download/20200628.0.56/20200628.0.56.pdf)
 
 ---
 

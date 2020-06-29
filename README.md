@@ -267,7 +267,7 @@
 * 6月4日
   * [12. 自由场拉氏量（3）矢量场](https://github.com/fjn308/QMbyDai/releases/download/20200604.0.46/20200604.0.46.7z)
 * 笔记
-  * [曹博星笔记<sup>&Dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200628.0.56/20200628.0.56.pdf)
+  * [曹博星笔记<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200628.0.56/20200628.0.56.pdf)
 
 ---
 

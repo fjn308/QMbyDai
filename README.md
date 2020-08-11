@@ -1,4 +1,4 @@
-# *Quntum Mechanics* by Gran. Dai
+# *Quantum Mechanics* by Gran. Dai
 
 这里是 [戴老师](http://blog.sciencenet.cn/u/GrandFT) 量子力学课（2020年春季学期）的视频/文档发布页，**在这你能找到一切**。点击标题即可下载对应文件。
 

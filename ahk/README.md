@@ -44,7 +44,7 @@
 * [InfoWriter v1.2](https://github.com/partouf/OBSInfoWriter/releases/tag/v1.2)
 * [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395)
 
-InfoWriter 插件的功能是记录每次录制的起止时间和每次场景切换的时间，使用它有两个原因：一是方便封装时用这些信息分章节，二是为 AHK 脚本判断是否结束了录制提供信息。
+InfoWriter 插件的功能是记录每次录制的起止时间和每次场景切换的时间，使用它有两个原因：一是方便封装时用这些信息分章节，二是为 AHK 脚本判断是否结束了录制提供信息。这个插件有更新的版本，但是并不适合我，这里相关功能的准确实现也依赖于这个特定版本，使用新版要对配置稍作调整。另外，高级场景切换器也在以不低的频率更新着，这里使用的是目前最新的版本 1.9 版。
 
 全局设置，位于 OBS Studio 的文件-设置：
 

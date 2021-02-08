@@ -284,4 +284,4 @@
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix)
 * [7-Zip](https://sourceforge.net/projects/sevenzip/)
 
-这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的 [继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。另外，[哔哩哔哩](https://live.bilibili.com/21811975)<!--、[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free)--> 和 [GitHub](https://github.com/fjn308/QMbyDai) 为所有人提供了免费的直播<!--、会议-->和发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。<!--课程早期曾经使用腾讯会议，后来转至哔哩哔哩，故在此有提及。偶然发现 GitHub 渲染 README.md 时隐去了附有包含 tencent.com 的超链接的超文本，可能与腾讯等国内公司恶意封杀 GitHub 996 吐槽仓库有关。鉴于 GitHub 的隐藏处理影响了美观，而腾讯会议也确已弃用，故注释之。-->
+这些软件（包括 [MPC-HC](https://github.com/mpc-hc/mpc-hc) 和它的 [继任](https://github.com/clsid2/mpc-hc)）都是**开源**的，在此谨向它们的开发者表示感谢。另外，[哔哩哔哩](https://live.bilibili.com/21811975)<!--、[腾讯会议](https://cloud.tencent.com/act/event/tencentmeeting_free)--> 和 [GitHub](https://github.com/fjn308/QMbyDai) 为所有人提供了免费的直播<!--、会议-->和发布平台，尽管它们与上述的文件制作过程无关，这里也一并表示感谢。<!--课程早期曾经使用腾讯会议，后来转至哔哩哔哩，故在此有提及。偶然发现 GitHub 渲染 README.md 时隐去了附有包含 tencent.com 的超链接的超文本，可能与腾讯等国内公司所开发的浏览器恶意封杀 GitHub 996 吐槽仓库的越界审查行为有关。鉴于 GitHub 的隐藏处理影响了美观，而腾讯会议也确已弃用，故注释之。-->

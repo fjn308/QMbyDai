@@ -104,4 +104,4 @@ InfoWriter 插件的功能是记录每次录制的起止时间和每次场景切
 
 ## chapter.ahk
 
-这个脚本是用来把 log.txt 里的日志转成 MKVToolNix 支持的章节文件的，用法是复制 log.txt 里某对 START RECORDING 和 STOP RECORDING 之间的那些行到剪贴板，然后运行脚本，转换后的章节信息就会被写入同目录下的 chapter.txt。
+这个脚本是一个例子，用来把 log.txt 里的日志转成 MKVToolNix 支持的章节文件。用法是复制 log.txt 里某对 START RECORDING 和 STOP RECORDING 之间的那些行到剪贴板，然后运行脚本，转换后的章节信息就会被写入同目录下的 chapter.txt。

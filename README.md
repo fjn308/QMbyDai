@@ -220,8 +220,6 @@
   * [85. 光学定理](https://github.com/fjn308/QMbyDai/releases/download/20200612.85/20200612.85.7z)
   * [86. 散射波函数的另一个形式（附录）](https://github.com/fjn308/QMbyDai/releases/download/20200612.86/20200612.86.7z)
 
-## 2021 零敲碎打
-
 ## A 专题
 
 * 量子力学的拉格朗日表述：[（1）](https://github.com/fjn308/QMbyDai/releases/download/20200326.0.19/20200326.0.19.7z)[（2）](https://github.com/fjn308/QMbyDai/releases/download/20200402.0.23/20200402.0.23.7z)（笔记：[李佩璇笔记](https://github.com/fjn308/QMbyDai/releases/download/20200327.0.20/20200327.0.20.pdf)）
@@ -240,6 +238,10 @@
 ## C 作业
 
 * [作业及答案](https://github.com/fjn308/QMbyDai/releases/download/20200321.0.18/20200321.0.18.pdf)
+
+---
+
+# 2021 零敲碎打
 
 ---
 

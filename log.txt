@@ -1,0 +1,697 @@
+1 2020-02-19 玻尔-索末菲条件：简并
+https://mp.weixin.qq.com/s/S0zzLP2nqzaT5fXIxPYM_w
+3 2020-03-02 一维束缚态无简并
+https://mp.weixin.qq.com/s/mKdRpDKLB3flnUmoioI5tg
+3 2020-03-02 非简并一维定态波函数可以取成实函数
+https://mp.weixin.qq.com/s/61CY_W_wvcJf6wku82Em0w
+A 2020-03-09 经典耦合振子
+https://mp.weixin.qq.com/s/yVztCvUgASByxpuxN30nXA
+3 2020-03-10 折射率
+https://mp.weixin.qq.com/s/Cv4gkw-rJcZ4xMFJjKtdBQ
+3 2020-03-11 厄米多项式
+https://mp.weixin.qq.com/s/x-KvAjKjz8yzpUylajm3sA
+4 2020-03-24 格拉姆-施密特正交化
+https://mp.weixin.qq.com/s/y1OE9A9P4vpCvhDssNJIbA
+4 2020-04-10 勒让德多项式
+https://mp.weixin.qq.com/s/MHn4Kde7ZxHHMfv-D_ONoA
+1
+START RECORDING @ 2020-02-17 10:23:56
+0:00:08 - Scene changed to onenote
+0:39:38 - Scene changed to onenote
+0:39:39 - Scene changed to outside
+0:39:44 - Scene changed to onenote
+0:45:59 - Scene changed to outside
+STOP RECORDING @ 2020-02-17 11:10:00
+2
+START RECORDING @ 2020-02-17 11:14:46
+0:00:07 - Scene changed to onenote
+0:41:23 - Scene changed to outside
+STOP RECORDING @ 2020-02-17 11:56:17
+3
+START RECORDING @ 2020-02-18 10:35:12
+0:00:11 - Scene changed to onenote
+0:20:10 - Scene changed to outside
+STOP RECORDING @ 2020-02-18 10:55:26
+5
+START RECORDING @ 2020-02-18 11:19:30
+0:00:10 - Scene changed to onenote
+0:03:31 - Scene changed to outside
+0:03:39 - Scene changed to onenote
+0:28:07 - Scene changed to outside
+STOP RECORDING @ 2020-02-18 11:47:41
+6
+START RECORDING @ 2020-02-18 11:47:46
+0:00:03 - Scene changed to onenote
+0:42:39 - Scene changed to outside
+STOP RECORDING @ 2020-02-18 12:30:31
+4'
+START RECORDING @ 2020-02-18 14:56:23
+0:00:03 - Scene changed to onenote
+0:24:20 - Scene changed to outside
+STOP RECORDING @ 2020-02-18 15:20:46
+0.1 习题：量子浮子
+START RECORDING @ 2020-02-19 22:21:03
+0:00:03 - Scene changed to onenote
+0:15:33 - Scene changed to outside
+STOP RECORDING @ 2020-02-19 22:36:41
+0.2 - 0.4
+2020-02-25 第一章笔记：葛李赵
+7
+START RECORDING @ 2020-02-21 10:25:42
+0:00:06 - Scene changed to onenote
+1:13:23 - Scene changed to outside
+STOP RECORDING @ 2020-02-21 11:39:09
+8
+START RECORDING @ 2020-02-21 11:44:41
+0:00:10 - Scene changed to onenote
+0:00:20 - Scene changed to outside
+0:00:23 - Scene changed to onenote
+0:38:46 - Scene changed to outside
+STOP RECORDING @ 2020-02-21 12:23:49
+9.1
+START RECORDING @ 2020-02-24 10:32:47
+0:00:07 - Scene changed to onenote
+9.2
+START RECORDING @ 2020-02-24 12:26:22
+0:00:02 - Scene changed to onenote
+0:22:23 - Scene changed to outside
+STOP RECORDING @ 2020-02-24 12:48:49
+9.3
+START RECORDING @ 2020-02-24 15:17:33
+0:00:03 - Scene changed to onenote
+9.4
+START RECORDING @ 2020-02-24 15:48:03
+0:00:04 - Scene changed to onenote
+0:13:07 - Scene changed to outside
+STOP RECORDING @ 2020-02-24 16:01:13
+10
+START RECORDING @ 2020-02-25 10:26:40
+0:00:06 - Scene changed to onenote
+0:48:24 - Scene changed to outside
+STOP RECORDING @ 2020-02-25 11:15:08
+11.1
+START RECORDING @ 2020-02-25 11:18:57
+0:00:10 - Scene changed to onenote
+0:00:19 - Scene changed to outside
+0:00:30 - Scene changed to onenote
+0:02:36 - Scene changed to outside
+0:02:40 - Scene changed to onenote
+1:27:24 - Scene changed to outside
+STOP RECORDING @ 2020-02-25 12:46:26
+11.2
+START RECORDING @ 2020-02-25 13:32:11
+0:00:03 - Scene changed to onenote
+0:08:28 - Scene changed to outside
+STOP RECORDING @ 2020-02-25 13:40:44
+0.5 专题：从振子到晶体 - 1
+START RECORDING @ 2020-02-27 09:45:46
+0:00:06 - Scene changed to onenote
+1:22:46 - Scene changed to outside
+1:22:51 - Scene changed to onenote
+1:59:10 - Scene changed to outside
+STOP RECORDING @ 2020-02-27 11:44:58
+12
+START RECORDING @ 2020-02-28 11:22:20
+0:00:08 - Scene changed to onenote
+0:52:21 - Scene changed to outside
+0:52:25 - Scene changed to onenote
+1:15:13 - Scene changed to outside
+STOP RECORDING @ 2020-02-28 12:37:37
+13
+START RECORDING @ 2020-02-28 12:42:14
+0:00:22 - Scene changed to onenote
+0:00:26 - Scene changed to outside
+0:00:39 - Scene changed to onenote
+0:00:41 - Scene changed to outside
+0:00:47 - Scene changed to onenote
+0:01:49 - Scene changed to outside
+0:01:51 - Scene changed to onenote
+0:51:16 - Scene changed to outside
+STOP RECORDING @ 2020-02-28 13:33:33
+14
+START RECORDING @ 2020-03-02 10:25:43
+0:00:08 - Scene changed to onenote
+0:00:11 - Scene changed to outside
+0:00:13 - Scene changed to onenote
+0:30:25 - Scene changed to outside
+STOP RECORDING @ 2020-03-02 10:56:14
+15
+START RECORDING @ 2020-03-02 10:56:23
+0:00:13 - Scene changed to onenote
+0:47:01 - Scene changed to outside
+STOP RECORDING @ 2020-03-02 11:43:29
+16
+START RECORDING @ 2020-03-02 11:43:37
+0:00:05 - Scene changed to onenote
+0:16:44 - Scene changed to outside
+STOP RECORDING @ 2020-03-02 12:00:26
+17
+START RECORDING @ 2020-03-03 10:25:42
+0:00:07 - Scene changed to onenote
+0:46:23 - Scene changed to outside
+STOP RECORDING @ 2020-03-03 11:12:12
+18
+START RECORDING @ 2020-03-03 11:12:26
+0:00:07 - Scene changed to onenote
+0:00:17 - Scene changed to outside
+0:00:20 - Scene changed to onenote
+0:13:48 - Scene changed to outside
+0:14:03 - Scene changed to onenote
+0:14:16 - Scene changed to outside
+0:14:23 - Scene changed to onenote
+0:15:29 - Scene changed to outside
+STOP RECORDING @ 2020-03-03 11:27:58
+19
+START RECORDING @ 2020-03-03 11:31:22
+0:00:23 - Scene changed to onenote
+0:37:23 - Scene changed to outside
+0:37:26 - Scene changed to onenote
+1:16:01 - Scene changed to outside
+STOP RECORDING @ 2020-03-03 12:47:33
+0.6.1 习题：什么情况下定态波函数可取成实函数 - 1
+START RECORDING @ 2020-03-03 18:37:49
+0:00:02 - Scene changed to onenote
+0:29:28 - Scene changed to outside
+STOP RECORDING @ 2020-03-03 19:07:21
+0.6.2
+START RECORDING @ 2020-03-03 19:26:36
+0:00:03 - Scene changed to onenote
+0:01:38 - Scene changed to outside
+STOP RECORDING @ 2020-03-03 19:28:17
+0.7 - 0.9
+2020-03-03 第二章笔记：葛李赵
+0.10 专题：从振子到晶体 - 2.1
+START RECORDING @ 2020-03-05 10:31:12
+0:00:08 - Scene changed to onenote
+0:12:10 - Scene changed to outside
+0:13:34 - Scene changed to onenote
+0:13:36 - Scene changed to outside
+0:13:43 - Scene changed to onenote
+0:13:45 - Scene changed to outside
+0:13:48 - Scene changed to onenote
+0:49:47 - Scene changed to outside
+STOP RECORDING @ 2020-03-05 11:21:07
+0.11 专题：从振子到晶体 - 2.2
+START RECORDING @ 2020-03-05 11:24:33
+0:00:57 - Scene changed to onenote
+0:40:51 - Scene changed to outside
+STOP RECORDING @ 2020-03-05 12:05:29
+0.12.1 专题：从振子到晶体 - 2.3
+START RECORDING @ 2020-03-05 12:10:51
+0:00:22 - Scene changed to onenote
+1:10:40 - Scene changed to outside
+STOP RECORDING @ 2020-03-05 13:21:37
+0.12.2
+START RECORDING @ 2020-03-05 15:19:48
+0:00:03 - Scene changed to onenote
+0.12.3
+START RECORDING @ 2020-03-05 15:42:11
+0:00:03 - Scene changed to onenote
+0:09:22 - Scene changed to outside
+STOP RECORDING @ 2020-03-05 15:51:36
+20
+START RECORDING @ 2020-03-06 10:26:56
+0:00:16 - Scene changed to onenote
+1:28:26 - Scene changed to outside
+STOP RECORDING @ 2020-03-06 11:55:28
+21
+START RECORDING @ 2020-03-06 11:58:34
+0:00:15 - Scene changed to onenote
+0:55:39 - Scene changed to outside
+STOP RECORDING @ 2020-03-06 12:54:19
+0.13 习题：什么情况下定态波函数可取成实函数 - 2
+START RECORDING @ 2020-03-06 12:54:27
+0:00:06 - Scene changed to onenote
+0:05:09 - Scene changed to outside
+STOP RECORDING @ 2020-03-06 12:59:42
+22
+START RECORDING @ 2020-03-09 10:25:18
+0:00:18 - Scene changed to onenote
+2:12:53 - Scene changed to outside
+STOP RECORDING @ 2020-03-09 12:38:16
+23
+START RECORDING @ 2020-03-10 10:25:11
+0:00:22 - Scene changed to onenote
+2:01:02 - Scene changed to outside
+2:02:24 - Scene changed to onenote
+2:02:37 - Scene changed to outside
+2:03:06 - Scene changed to onenote
+2:22:30 - Scene changed to outside
+STOP RECORDING @ 2020-03-10 12:47:45
+24
+START RECORDING @ 2020-03-13 10:37:55
+0:00:11 - Scene changed to onenote
+0:41:23 - Scene changed to outside
+STOP RECORDING @ 2020-03-13 11:19:24
+25
+START RECORDING @ 2020-03-13 11:23:24
+0:00:10 - Scene changed to onenote
+1:34:06 - Scene changed to outside
+STOP RECORDING @ 2020-03-13 12:57:45
+26
+START RECORDING @ 2020-03-16 10:27:18
+0:00:11 - Scene changed to onenote
+2:32:29 - Scene changed to outside
+STOP RECORDING @ 2020-03-16 13:00:04
+27
+START RECORDING @ 2020-03-17 10:28:59
+0:00:16 - Scene changed to onenote
+1:19:57 - Scene changed to outside
+STOP RECORDING @ 2020-03-17 11:49:02
+28
+START RECORDING @ 2020-03-17 11:57:21
+0:00:13 - Scene changed to onenote
+0:38:48 - Scene changed to outside
+STOP RECORDING @ 2020-03-17 12:36:18
+0.14 专题：从振子到晶体 - 3
+START RECORDING @ 2020-03-19 10:27:44
+0:00:12 - Scene changed to onenote
+2:18:35 - Scene changed to outside
+STOP RECORDING @ 2020-03-19 12:46:42
+0.15 - 0.17
+2020-03-19 第三章笔记：葛李赵
+29
+START RECORDING @ 2020-03-20 10:41:45
+0:00:18 - Scene changed to onenote
+1:46:29 - Scene changed to outside
+STOP RECORDING @ 2020-03-20 12:28:20
+0.18
+2020-03-21 作业及答案
+30
+START RECORDING @ 2020-03-23 10:27:05
+0:00:14 - Scene changed to onenote
+2:02:30 - Scene changed to outside
+STOP RECORDING @ 2020-03-23 12:29:45
+31
+START RECORDING @ 2020-03-24 10:26:38
+0:00:13 - Scene changed to onenote
+2:13:13 - Scene changed to outside
+STOP RECORDING @ 2020-03-24 12:39:57
+32
+START RECORDING @ 2020-03-24 12:45:08
+0:00:11 - Scene changed to onenote
+0:49:55 - Scene changed to outside
+STOP RECORDING @ 2020-03-24 13:35:09
+0.19 专题：量子力学的拉格朗日表述 - 1
+START RECORDING @ 2020-03-26 10:32:11
+0:00:06 - Scene changed to onenote
+2:49:19 - Scene changed to outside
+STOP RECORDING @ 2020-03-26 13:21:39
+33
+START RECORDING @ 2020-03-27 10:31:19
+0:00:08 - Scene changed to onenote
+0:26:39 - Scene changed to outside
+0:27:35 - Scene changed to onenote
+3:06:42 - Scene changed to outside
+STOP RECORDING @ 2020-03-27 13:38:07
+0.20
+2020-03-27 量子力学的拉格朗日表述笔记：李
+0.21 - 0.22
+2020-03-27 从振子到晶体1笔记：李赵
+34
+START RECORDING @ 2020-03-30 10:28:50
+0:00:11 - Scene changed to onenote
+1:24:36 - Scene changed to outside
+STOP RECORDING @ 2020-03-30 11:53:33
+35
+START RECORDING @ 2020-03-30 11:56:14
+0:00:15 - Scene changed to onenote
+0:47:30 - Scene changed to outside
+STOP RECORDING @ 2020-03-30 12:43:52
+36
+START RECORDING @ 2020-03-31 10:31:25
+0:00:10 - Scene changed to onenote
+1:12:54 - Scene changed to outside
+STOP RECORDING @ 2020-03-31 11:44:25
+37
+START RECORDING @ 2020-03-31 11:44:33
+0:00:22 - Scene changed to onenote
+1:16:34 - Scene changed to outside
+STOP RECORDING @ 2020-03-31 13:01:14
+0.23 专题：量子力学的拉格朗日表述 - 2
+START RECORDING @ 2020-04-02 10:26:05
+0:00:10 - Scene changed to onenote
+1:18:22 - Scene changed to outside
+1:18:25 - Scene changed to onenote
+2:36:32 - Scene changed to outside
+STOP RECORDING @ 2020-04-02 13:02:48
+38
+START RECORDING @ 2020-04-03 10:25:15
+0:00:15 - Scene changed to onenote
+1:01:17 - Scene changed to outside
+STOP RECORDING @ 2020-04-03 11:26:41
+39
+START RECORDING @ 2020-04-03 11:29:04
+0:00:14 - Scene changed to onenote
+0:30:51 - Scene changed to outside
+STOP RECORDING @ 2020-04-03 12:00:01
+40
+START RECORDING @ 2020-04-03 12:02:46
+0:00:10 - Scene changed to onenote
+0:00:36 - Scene changed to outside
+0:02:40 - Scene changed to onenote
+1:05:25 - Scene changed to outside
+STOP RECORDING @ 2020-04-03 13:08:32
+41
+START RECORDING @ 2020-04-07 10:27:44
+0:00:11 - Scene changed to onenote
+2:16:22 - Scene changed to outside
+STOP RECORDING @ 2020-04-07 12:44:12
+0.24 场论提纲 - 1
+START RECORDING @ 2020-04-09 10:25:56
+0:00:17 - Scene changed to onenote
+2:21:05 - Scene changed to outside
+STOP RECORDING @ 2020-04-09 12:47:11
+42
+START RECORDING @ 2020-04-10 10:29:15
+0:00:11 - Scene changed to onenote
+0:18:09 - Scene changed to outside
+0:19:44 - Scene changed to onenote
+0:59:49 - Scene changed to outside
+STOP RECORDING @ 2020-04-10 11:29:11
+43
+START RECORDING @ 2020-04-10 11:31:49
+0:00:12 - Scene changed to onenote
+0:47:40 - Scene changed to outside
+STOP RECORDING @ 2020-04-10 12:19:34
+44
+START RECORDING @ 2020-04-10 12:22:39
+0:00:10 - Scene changed to onenote
+0:39:49 - Scene changed to outside
+STOP RECORDING @ 2020-04-10 13:02:35
+45
+START RECORDING @ 2020-04-13 10:30:56
+0:00:12 - Scene changed to onenote
+1:38:48 - Scene changed to outside
+STOP RECORDING @ 2020-04-13 12:10:00
+46
+START RECORDING @ 2020-04-13 12:12:58
+0:00:20 - Scene changed to onenote
+0:00:35 - Scene changed to outside
+0:00:38 - Scene changed to onenote
+0:50:55 - Scene changed to outside
+STOP RECORDING @ 2020-04-13 13:03:59
+47
+START RECORDING @ 2020-04-14 10:31:09
+0:00:12 - Scene changed to onenote
+0:37:13 - Scene changed to outside
+STOP RECORDING @ 2020-04-14 11:08:32
+48
+START RECORDING @ 2020-04-14 11:13:38
+0:00:15 - Scene changed to onenote
+1:22:21 - Scene changed to outside
+STOP RECORDING @ 2020-04-14 12:36:04
+0.25 场论提纲 - 2
+START RECORDING @ 2020-04-16 10:31:29
+0:00:10 - Scene changed to onenote
+1:53:22 - Scene changed to outside
+STOP RECORDING @ 2020-04-16 12:24:56
+49
+START RECORDING @ 2020-04-17 10:28:38
+0:00:10 - Scene changed to onenote
+0:45:40 - Scene changed to outside
+STOP RECORDING @ 2020-04-17 11:14:24
+50
+START RECORDING @ 2020-04-17 11:17:43
+0:00:15 - Scene changed to onenote
+1:38:35 - Scene changed to outside
+STOP RECORDING @ 2020-04-17 12:56:25
+0.26 场论 - 3
+START RECORDING @ 2020-04-18 10:27:27
+0:00:12 - Scene changed to onenote
+2:26:48 - Scene changed to outside
+STOP RECORDING @ 2020-04-18 12:54:22
+51
+START RECORDING @ 2020-04-20 10:28:32
+0:00:11 - Scene changed to onenote
+1:56:06 - Scene changed to outside
+STOP RECORDING @ 2020-04-20 12:24:45
+52
+START RECORDING @ 2020-04-20 12:24:59
+0:00:03 - Scene changed to onenote
+0:29:09 - Scene changed to outside
+STOP RECORDING @ 2020-04-20 12:54:13
+53
+START RECORDING @ 2020-04-21 10:30:54
+0:00:12 - Scene changed to onenote
+1:30:06 - Scene changed to outside
+STOP RECORDING @ 2020-04-21 12:01:07
+54
+START RECORDING @ 2020-04-21 12:01:23
+0:00:13 - Scene changed to onenote
+0:47:27 - Scene changed to outside
+STOP RECORDING @ 2020-04-21 12:48:55
+0.27 场论提纲 - 4
+START RECORDING @ 2020-04-23 10:32:34
+0:00:14 - Scene changed to onenote
+1:08:42 - Scene changed to outside
+1:08:43 - Scene changed to onenote
+1:26:47 - Scene changed to outside
+1:26:56 - Scene changed to onenote
+1:52:05 - Scene changed to outside
+STOP RECORDING @ 2020-04-23 12:24:46
+0.28 场论提纲 - 5
+START RECORDING @ 2020-04-23 12:25:05
+0:00:14 - Scene changed to onenote
+0:46:48 - Scene changed to outside
+STOP RECORDING @ 2020-04-23 13:11:59
+55
+START RECORDING @ 2020-04-24 10:27:14
+0:00:09 - Scene changed to onenote
+2:14:37 - Scene changed to outside
+STOP RECORDING @ 2020-04-24 12:42:01
+0.29 场论提纲 - 6
+START RECORDING @ 2020-04-25 10:29:07
+0:00:10 - Scene changed to onenote
+3:09:34 - Scene changed to outside
+STOP RECORDING @ 2020-04-25 13:38:48
+0.30 - 0.32
+2020-04-25 第四章笔记：葛李赵
+56
+START RECORDING @ 2020-04-26 10:27:57
+0:00:10 - Scene changed to onenote
+0:54:18 - Scene changed to outside
+STOP RECORDING @ 2020-04-26 11:22:22
+57
+START RECORDING @ 2020-04-26 11:26:11
+0:00:10 - Scene changed to onenote
+1:48:17 - Scene changed to outside
+STOP RECORDING @ 2020-04-26 13:14:35
+58
+START RECORDING @ 2020-04-27 10:31:55
+0:00:14 - Scene changed to onenote
+2:10:42 - Scene changed to outside
+STOP RECORDING @ 2020-04-27 12:42:43
+59
+START RECORDING @ 2020-04-28 10:28:21
+0:00:15 - Scene changed to onenote
+0:56:23 - Scene changed to outside
+STOP RECORDING @ 2020-04-28 11:24:50
+60
+START RECORDING @ 2020-04-28 11:27:50
+0:00:13 - Scene changed to onenote
+1:17:59 - Scene changed to outside
+STOP RECORDING @ 2020-04-28 12:45:55
+0.33 场论提纲 - 7
+START RECORDING @ 2020-04-30 10:41:38
+0:00:18 - Scene changed to onenote
+2:36:28 - Scene changed to outside
+STOP RECORDING @ 2020-04-30 13:18:11
+0.34.1 44+1
+START RECORDING @ 2020-05-05 10:27:28
+0:00:08 - Scene changed to onenote
+0:28:44 - Scene changed to outside
+0:28:50 - Scene changed to onenote
+0:29:00 - Scene changed to outside
+0.34.2
+START RECORDING @ 2020-05-05 11:01:46
+0:00:05 - Scene changed to onenote
+0:14:45 - Scene changed to outside
+0:14:51 - Scene changed to onenote
+0:24:18 - Scene changed to outside
+0:25:21 - Scene changed to onenote
+0:25:24 - Scene changed to outside
+0:25:29 - Scene changed to onenote
+0:25:56 - Scene changed to outside
+STOP RECORDING @ 2020-05-05 11:28:59
+0.34.3
+START RECORDING @ 2020-05-05 11:29:35
+0:00:13 - Scene changed to onenote
+0:40:40 - Scene changed to outside
+STOP RECORDING @ 2020-05-05 12:10:22
+0.35 场论提纲 - 8
+START RECORDING @ 2020-05-07 10:29:38
+0:00:08 - Scene changed to onenote
+2:53:25 - Scene changed to outside
+STOP RECORDING @ 2020-05-07 13:23:12
+61
+START RECORDING @ 2020-05-08 10:30:35
+0:00:11 - Scene changed to onenote
+1:25:06 - Scene changed to outside
+STOP RECORDING @ 2020-05-08 11:55:47
+62
+START RECORDING @ 2020-05-08 11:58:57
+0:00:08 - Scene changed to onenote
+0:37:38 - Scene changed to outside
+STOP RECORDING @ 2020-05-08 12:36:39
+63
+START RECORDING @ 2020-05-09 10:26:26
+0:00:14 - Scene changed to onenote
+1:20:14 - Scene changed to outside
+STOP RECORDING @ 2020-05-09 11:46:45
+64
+START RECORDING @ 2020-05-09 11:52:10
+0:00:11 - Scene changed to onenote
+1:01:26 - Scene changed to outside
+STOP RECORDING @ 2020-05-09 12:53:41
+65
+START RECORDING @ 2020-05-11 10:29:14
+0:00:08 - Scene changed to onenote
+1:56:31 - Scene changed to outside
+STOP RECORDING @ 2020-05-11 12:25:52
+66
+START RECORDING @ 2020-05-12 10:28:24
+0:00:08 - Scene changed to onenote
+1:10:52 - Scene changed to outside
+STOP RECORDING @ 2020-05-12 11:39:21
+67
+START RECORDING @ 2020-05-12 11:45:53
+0:00:17 - Scene changed to onenote
+1:00:14 - Scene changed to outside
+STOP RECORDING @ 2020-05-12 12:46:12
+0.36 场论提纲 - 9
+START RECORDING @ 2020-05-14 10:34:03
+0:00:15 - Scene changed to onenote
+2:32:14 - Scene changed to outside
+STOP RECORDING @ 2020-05-14 13:06:25
+68
+START RECORDING @ 2020-05-15 10:26:21
+0:00:09 - Scene changed to onenote
+2:25:30 - Scene changed to outside
+STOP RECORDING @ 2020-05-15 12:51:57
+69
+START RECORDING @ 2020-05-18 10:31:20
+0:00:11 - Scene changed to onenote
+1:59:23 - Scene changed to outside
+STOP RECORDING @ 2020-05-18 12:30:48
+70
+START RECORDING @ 2020-05-19 10:29:52
+0:00:07 - Scene changed to onenote
+2:24:57 - Scene changed to outside
+STOP RECORDING @ 2020-05-19 12:54:57
+0.37 场论提纲 - 10
+START RECORDING @ 2020-05-20 10:33:28
+0:00:07 - Scene changed to onenote
+1:54:54 - Scene changed to outside
+STOP STREAM @ 2020-05-20 12:28:37
+71
+START RECORDING @ 2020-05-22 10:31:33
+0:00:10 - Scene changed to onenote
+2:25:03 - Scene changed to outside
+STOP RECORDING @ 2020-05-22 12:56:43
+72 - 73
+故障
+74
+START RECORDING @ 2020-05-26 10:30:53
+0:00:12 - Scene changed to onenote
+2:12:04 - Scene changed to outside
+STOP RECORDING @ 2020-05-26 12:43:05
+0.38 33+1
+START RECORDING @ 2020-05-26 12:43:56
+0:00:08 - Scene changed to onenote
+0:01:48 - Scene changed to outside
+0:01:50 - Scene changed to onenote
+0:28:12 - Scene changed to outside
+STOP RECORDING @ 2020-05-26 13:12:13
+0.39 - 0.41
+2020-05-27 第五章笔记：葛李赵
+0.42 场论提纲 - 11
+START RECORDING @ 2020-05-28 10:35:36
+0:00:07 - Scene changed to onenote
+2:12:09 - Scene changed to outside
+STOP RECORDING @ 2020-05-28 12:47:52
+75
+START RECORDING @ 2020-05-29 10:31:53
+0:00:06 - Scene changed to onenote
+2:29:29 - Scene changed to outside
+STOP RECORDING @ 2020-05-29 13:01:29
+76
+START RECORDING @ 2020-06-01 10:36:54
+0:00:07 - Scene changed to onenote
+1:17:39 - Scene changed to outside
+STOP RECORDING @ 2020-06-01 11:54:39
+77
+START RECORDING @ 2020-06-01 11:59:59
+0:00:24 - Scene changed to onenote
+0:43:51 - Scene changed to outside
+STOP RECORDING @ 2020-06-01 12:43:55
+78
+START RECORDING @ 2020-06-02 10:29:13
+0:00:13 - Scene changed to onenote
+2:14:31 - Scene changed to outside
+STOP RECORDING @ 2020-06-02 12:43:50
+0.43 - 0.45
+2020-06-03 第六章笔记：葛李赵
+0.46 场论提纲 - 12
+START RECORDING @ 2020-06-04 10:30:44
+0:00:09 - Scene changed to onenote
+2:24:11 - Scene changed to outside
+STOP RECORDING @ 2020-06-04 12:55:00
+79
+START RECORDING @ 2020-06-05 10:28:17
+0:00:22 - Scene changed to onenote
+1:11:54 - Scene changed to outside
+STOP RECORDING @ 2020-06-05 11:40:20
+0.47 - 0.49
+2020-06-07 第七章笔记：葛李赵
+80
+START RECORDING @ 2020-06-08 10:32:20
+0:00:08 - Scene changed to onenote
+0:42:46 - Scene changed to outside
+0:42:47 - Scene changed to onenote
+0:42:49 - Scene changed to outside
+0:42:50 - Scene changed to onenote
+0:42:55 - Scene changed to outside
+0:42:56 - Scene changed to onenote
+0:43:21 - Scene changed to outside
+0:43:31 - Scene changed to onenote
+3:02:21 - Scene changed to outside
+STOP RECORDING @ 2020-06-08 13:34:49
+81
+START RECORDING @ 2020-06-09 10:25:08
+0:00:11 - Scene changed to onenote
+0:33:31 - Scene changed to outside
+STOP RECORDING @ 2020-06-09 10:58:49
+82
+START RECORDING @ 2020-06-09 11:02:46
+0:00:13 - Scene changed to onenote
+0:55:20 - Scene changed to outside
+STOP RECORDING @ 2020-06-09 11:58:13
+83
+START RECORDING @ 2020-06-09 12:05:07
+0:00:10 - Scene changed to onenote
+0:51:09 - Scene changed to outside
+0:51:13 - Scene changed to onenote
+1:09:45 - Scene changed to outside
+STOP RECORDING @ 2020-06-09 13:14:58
+84
+START RECORDING @ 2020-06-12 10:37:22
+0:00:18 - Scene changed to onenote
+1:10:56 - Scene changed to outside
+STOP RECORDING @ 2020-06-12 11:48:22
+85
+START RECORDING @ 2020-06-12 11:55:20
+0:00:04 - Scene changed to onenote
+0:46:53 - Scene changed to outside
+STOP RECORDING @ 2020-06-12 12:42:21
+86
+START RECORDING @ 2020-06-12 12:43:02
+0:00:14 - Scene changed to onenote
+0:25:43 - Scene changed to outside
+STOP RECORDING @ 2020-06-12 13:08:52
+0.50 - 0.52
+2020-06-15 第八章笔记：葛李赵
+0.53 - 0.55
+2020-06-15 第九章笔记：葛李赵
+0.56
+2020-06-28 场论笔记：曹

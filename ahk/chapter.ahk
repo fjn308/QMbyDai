@@ -10,14 +10,14 @@ Loop, Parse, Clipboard, `n, `r
     temp2 := StrSplit(temp1, ",")
     If (i < 10)
     {
-        chapter := "CHAPTER0" i "=" temp2[1]
+        chapter := "CHAPTER0" i "=" temp2[1]".000"
         name := "CHAPTER0" i "NAME=" temp2[2]
         FileAppend, `r`n%chapter%, chapter.txt
         FileAppend, `r`n%name%, chapter.txt
     }
     Else
     {
-        chapter := "CHAPTER" i "=" temp2[1]
+        chapter := "CHAPTER" i "=" temp2[1]".000"
         name := "CHAPTER" i "NAME=" temp2[2]
         FileAppend, `r`n%chapter%, chapter.txt
         FileAppend, `r`n%name%, chapter.txt

@@ -243,7 +243,7 @@
 
 # 2021 零敲碎打
 
-待上传。
+待上传。This repository will be archived once a successor is determined.
 
 ---
 

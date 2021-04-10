@@ -1,6 +1,6 @@
 > 请移步 [https://github.com/id/QMbyDai](https://github.com/id/QMbyDai)。
 >
-> 2021 年起，新增内容在新页面发布，本页停止更新。 2020 年的全部内容已打包上传，[点此下载](https://github.com/fjn308/QMbyDai/releases/tag/2020)。
+> 2021 年起，新增内容在新页面发布，本页停止更新。 2020 年的全部内容已打包上传，点击 [这里](https://github.com/fjn308/QMbyDai/releases/tag/2020) 前往下载。
 
 # *Quantum Mechanics* by Gran. Dai
 

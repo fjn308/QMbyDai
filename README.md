@@ -1,4 +1,4 @@
-> 请移步 [https://github.com/Grandft/QMbyDai](https://github.com/id/QMbyDai)。
+> 请移步 [https://github.com/Grandft/QMbyDai](https://github.com/Grandft/QMbyDai)。
 >
 > 2021 年起，新增内容在新页面发布，本页停止更新。 2020 年的全部内容已打包上传，点击 [这里](https://github.com/fjn308/QMbyDai/releases/tag/2020) 前往下载。
 
@@ -277,7 +277,7 @@
 
 > # 2021 零敲碎打
 >
-> 见 [https://github.com/Grandft/QMbyDai](https://github.com/id/QMbyDai)。
+> 见 [https://github.com/Grandft/QMbyDai](https://github.com/Grandft/QMbyDai)。
 
 ---
 

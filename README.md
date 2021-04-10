@@ -1,3 +1,7 @@
+> 请移步 [https://github.com/id/QMbyDai](https://github.com/id/QMbyDai)。
+
+> 2021 年起，新增内容在新页面发布，本页停止更新。 2020 年的全部内容已打包上传，[点此下载](https://github.com/fjn308/QMbyDai/releases/tag/2020)。
+
 # *Quantum Mechanics* by Gran. Dai
 
 这里是 [戴老师](http://blog.sciencenet.cn/u/GrandFT) 量子力学课（2020年春季学期）的视频/文档发布页，**在这你能找到一切**。点击标题即可下载对应文件。
@@ -243,7 +247,7 @@
 
 # 2021 零敲碎打
 
-待上传。This repository will be archived once a successor is determined.
+见
 
 ---
 

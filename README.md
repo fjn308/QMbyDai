@@ -1,3 +1,7 @@
+> 请移步 [https://github.com/Grandft/QMbyDai](https://github.com/Grandft/QMbyDai)。
+>
+> 2021 年起，新增内容在新页面发布，本页停止更新。 2020 年的全部内容已打包上传，点击 [这里](https://github.com/fjn308/QMbyDai/releases/tag/2020) 前往下载。
+
 # *Quantum Mechanics* by Gran. Dai
 
 这里是 [戴老师](http://blog.sciencenet.cn/u/GrandFT) 量子力学课（2020年春季学期）的视频/文档发布页，**在这你能找到一切**。点击标题即可下载对应文件。
@@ -241,12 +245,6 @@
 
 ---
 
-# 2021 零敲碎打
-
-待上传。This repository will be archived once a successor is determined.
-
----
-
 # 量子场论提纲
 
 * 4月9日
@@ -274,6 +272,12 @@
   * [12. 自由场拉氏量（3）矢量场](https://github.com/fjn308/QMbyDai/releases/download/20200604.0.46/20200604.0.46.7z)
 * 笔记
   * [曹博星笔记<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200628.0.56/20200628.0.56.pdf)
+
+---
+
+> # 2021 零敲碎打
+>
+> 见 [https://github.com/Grandft/QMbyDai](https://github.com/Grandft/QMbyDai)。
 
 ---
 

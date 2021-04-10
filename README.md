@@ -1,5 +1,5 @@
 > 请移步 [https://github.com/id/QMbyDai](https://github.com/id/QMbyDai)。
-
+>
 > 2021 年起，新增内容在新页面发布，本页停止更新。 2020 年的全部内容已打包上传，[点此下载](https://github.com/fjn308/QMbyDai/releases/tag/2020)。
 
 # *Quantum Mechanics* by Gran. Dai
@@ -245,12 +245,6 @@
 
 ---
 
-# 2021 零敲碎打
-
-见
-
----
-
 # 量子场论提纲
 
 * 4月9日
@@ -278,6 +272,12 @@
   * [12. 自由场拉氏量（3）矢量场](https://github.com/fjn308/QMbyDai/releases/download/20200604.0.46/20200604.0.46.7z)
 * 笔记
   * [曹博星笔记<sup>&dagger;</sup>](https://github.com/fjn308/QMbyDai/releases/download/20200628.0.56/20200628.0.56.pdf)
+
+---
+
+> # 2021 零敲碎打
+>
+> 见 [https://github.com/id/QMbyDai](https://github.com/id/QMbyDai)。
 
 ---
 
